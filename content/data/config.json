@@ -63,7 +63,7 @@
                 "type": "action"
             },
             {
-                "label": "Produits commercialisées",
+                "label": "matieres premières commercialisées",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
