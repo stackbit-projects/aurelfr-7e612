@@ -106,12 +106,7 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >
-          \*\*Robert Goncalves, \*\**Web Designer, Studio*
-
-
-          > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit.
+      - content: "**Yurie Murad,**\_*CEO, Studio*\n\n> ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n"
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
