@@ -31,7 +31,7 @@ sections:
     actions:
       - label: Try Free
         url: /pricing
-        style: primary
+        style: link
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: right
