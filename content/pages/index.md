@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Au nom de toute l'équipe d'Aurel Group je vous souhaite la bienvenue.
-    subtitle: Optional hero section subtitle
+    subtitle: Marius Tudorcahe CEO
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
