@@ -103,46 +103,6 @@ sections:
     align: center
     background_color: none
     enable_cards: false
-  - type: grid_section
-    align: center
-    grid_items:
-      - image: images/brandon-guidelines.png
-        image_alt: Contentful logo
-        image_align: center
-        subtitle: Directeur des achats Groupe Danone
-        content_align: right
-        title: Jean Dupuis
-        title_align: right
-        image_position: left
-        image_width: sixty
-        image_has_padding: true
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: DatoCMS logo
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Next.js logo
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Gridsome logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: true
-    background_color: none
-    title: 'Que disent nos clients '
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
@@ -292,6 +252,46 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+  - type: grid_section
+    align: center
+    grid_items:
+      - image: images/brandon-guidelines.png
+        image_alt: Contentful logo
+        image_align: center
+        subtitle: Directeur des achats Groupe Danone
+        content_align: right
+        title: Jean Dupuis
+        title_align: right
+        image_position: left
+        image_width: sixty
+        image_has_padding: true
+      - image: images/logo-2.svg
+        image_alt: Netlify logo
+        image_align: center
+      - image: images/logo-3.svg
+        image_alt: Gatsby logo
+        image_align: center
+      - image: images/logo-4.svg
+        image_alt: Sanity logo
+        image_align: center
+      - image: images/logo-5.svg
+        image_alt: DatoCMS logo
+        image_align: center
+      - image: images/logo-6.svg
+        image_alt: Next.js logo
+        image_align: center
+      - image: images/logo-7.svg
+        image_alt: Gridsome logo
+        image_align: center
+      - image: images/logo-8.svg
+        image_alt: Git logo
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    enable_cards: true
+    background_color: none
+    title: 'Que disent nos clients '
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     actions: []
