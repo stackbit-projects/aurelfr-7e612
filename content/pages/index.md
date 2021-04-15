@@ -5,15 +5,10 @@ sections:
     subtitle: Découvrez nos dossiers sur cette thématique
     content: |
       1.  Lorem ipsum
-
       2.  Dolor sit amet
-
       3.  Consectetur
-
       4.  Adipiscing elit
-
       5.  Donec nisl ligula
-
       6.  Cursus id molestie
     actions:
       - label: Try Free
