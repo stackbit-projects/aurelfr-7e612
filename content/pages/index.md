@@ -84,7 +84,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          **Miles Tone,** *CEO, Studio*
+          **Yurie Murad,** *CEO, Studio*
 
 
           > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
