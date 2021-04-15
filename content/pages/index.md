@@ -97,10 +97,12 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: |
-          **Robert Goncalves, ***Web Designer, Studio*
+      - content: >
+          \*\*Robert Goncalves, \*\**Web Designer, Studio*
 
-          > Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+          > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
+          ipsum dolor sit amet, consectetur adipiscing elit.
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
