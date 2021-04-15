@@ -25,7 +25,9 @@ sections:
       <iframe width="600" height="1015"
       src=https://www.youtube-nocookie.com/embed/5723ieP5VAQ?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&mute=1;loop=1"
       frameborder="0" allowfullscreen></iframe>
-    title: "Matières premières agricoles durables : Plus q'un défis, une\_une responsabilité éthique"
+    title: >-
+      Matières premières agricoles durables : Plus q'un défis, une
+      responsabilité éthique
   - type: grid_section
     align: center
     grid_items:
