@@ -5,7 +5,7 @@ sections:
     subtitle: 'Découvrez nos rapports :'
     content: |
       +   Lorem ipsum 
-      *   Dolor sit amet
+      +   Dolor sit amet
       *   Consectetur 
       *   Adipiscing elit
       *   Donec nisl ligula
