@@ -106,7 +106,7 @@ sections:
         image_align: center
         title_align: left
         content_align: left
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
