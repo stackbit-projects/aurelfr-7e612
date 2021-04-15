@@ -109,6 +109,7 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
+        image_align: center
       - content: "**Yurie Murad,**\_*CEO, Studio*\n\n> ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n"
         image: images/gordon-norman.png
         image_alt: Gordon Norman
