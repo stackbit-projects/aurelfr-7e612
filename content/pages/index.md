@@ -272,6 +272,7 @@ sections:
         image_position: top
         image_width: sixty
         image_has_padding: true
+        title: C
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
