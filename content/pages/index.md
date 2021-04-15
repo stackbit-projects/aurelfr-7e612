@@ -86,6 +86,7 @@ sections:
         image_alt: Hanson Deck
         image_position: top
         image_width: twenty-five
+        content_align: center
       - content: >
           **Yurie Murad,** *CEO, Studio*
 
