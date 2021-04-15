@@ -76,7 +76,7 @@ sections:
       - content: |
           **Ahmet Hassan,** *App Developer, Studio*
 
-          > Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
