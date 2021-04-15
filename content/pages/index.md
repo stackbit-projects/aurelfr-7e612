@@ -60,7 +60,7 @@ sections:
       - image: images/brandon-guidelines.png
         image_alt: Contentful logo
         image_align: center
-        subtitle: demo
+        subtitle: Directeur des achats Groupe Danone
         content_align: right
         title: Jean Dupuis
         title_align: right
