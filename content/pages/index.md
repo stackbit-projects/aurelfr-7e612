@@ -25,6 +25,7 @@ sections:
       <iframe width="600" height="1015"
       src=https://www.youtube-nocookie.com/embed/5723ieP5VAQ?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&mute=1;loop=1"
       frameborder="0" allowfullscreen></iframe>
+    title: "Au\_nom\_de\_tous\_nos\_collaborateurs,\_maintenant\_plus\_que\_jamais,\_j'aimerais\_vous\_remercier\_pour\_votre\_fidélité."
   - type: grid_section
     align: center
     grid_items:
