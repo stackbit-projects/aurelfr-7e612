@@ -53,7 +53,7 @@
         ],
         "has_anncmnt": true,
         "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
+        "anncmnt_align": "right",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_id": "new-features"
