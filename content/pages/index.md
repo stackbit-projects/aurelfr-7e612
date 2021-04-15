@@ -65,7 +65,7 @@ sections:
         title: DEMO
         title_align: right
         image_position: left
-        image_width: twenty-five
+        image_width: sixty
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
