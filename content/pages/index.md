@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Découvrez nos actions concretes sur cette thématique ci-dessus
+    subtitle: Découvrez nos actions concretes sur cette thématique
     content: >
       ***
 
