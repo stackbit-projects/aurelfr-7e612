@@ -272,7 +272,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: secondary
+    background_color: primary
   - type: grid_section
     title: Team Section
     subtitle: Grid Section Example
