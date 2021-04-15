@@ -271,7 +271,7 @@ sections:
         title_align: center
         image_position: top
         image_width: sixty
-        image_has_padding: true
+        image_has_padding: false
         content: |
           0,023€ | Kg | \[+0,8% ↑]
 
