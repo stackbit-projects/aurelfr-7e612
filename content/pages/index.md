@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Découvrez nos actions concretes sur cette thématique
+    subtitle: Découvrez nos actions concretes sur cette thématique ci-dessus
     content: >
       ***
-      
+
       1.  ###### Aurel aide les agriculteurs algériens à valoriser leur
       production
 
