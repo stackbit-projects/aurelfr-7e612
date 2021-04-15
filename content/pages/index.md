@@ -54,8 +54,7 @@ sections:
     title: >-
       Matières premières agricoles durables : Plus q'un défis, une
       responsabilité éthique
-  - subtitle: x
-    content: |
+  - content: |
       Nos ambassadeurs les plus fidèles témoignent de notre impact
     actions: []
     image_alt: lorem-ipsum
