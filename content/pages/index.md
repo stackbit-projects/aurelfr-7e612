@@ -24,7 +24,7 @@ sections:
     background_color: none
     video_embed_html: >-
       <iframe
-      src="https://www.youtube.com/embed/oHg5SJYRHA0?autoplay=1"></iframe>
+      src="https://www.youtube.com/embed/oHg5SJYRHA0?autoplay=1&mute=1"></iframe>
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
