@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     subtitle: Mot du Président
-    content: "## Au\_nom\_de\_tous\_nos\_collaborateurs,\_maintenant\_plus\_que\_jamais,\_j'aimerais\_vous\_remercier\_pour\_votre\_fidélité.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel.\n"
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing
