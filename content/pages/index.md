@@ -300,7 +300,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     background_color: none
-    title: 'Que disent nos clients '
+    title: Le cours des matières
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     actions: []
