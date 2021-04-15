@@ -56,7 +56,6 @@ sections:
       responsabilité éthique
   - type: grid_section
     title: Que disent nos clients ?
-    subtitle: Grid Section Example
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
