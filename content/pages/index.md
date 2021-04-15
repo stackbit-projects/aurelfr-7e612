@@ -84,7 +84,7 @@ sections:
           ipsum dolor sit amet, consectetur adipiscing elit.
         image: images/hanson-deck.png
         image_alt: Hanson Deck
-        image_position: left
+        image_position: top
         image_width: twenty-five
       - content: >
           **Yurie Murad,** *CEO, Studio*
