@@ -27,7 +27,6 @@ sections:
       src=https://www.youtube-nocookie.com/embed/5723ieP5VAQ?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&mute=1;loop=1"
       frameborder="0" allowfullscreen></iframe>
   - type: grid_section
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/logo-1.svg
