@@ -103,6 +103,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
+    enable_cards: true
   - type: grid_section
     align: center
     grid_items:
