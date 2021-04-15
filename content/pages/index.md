@@ -264,7 +264,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/classic/icon-2.svg
         image_alt: Contentful logo
         image_align: center
         content_align: right
