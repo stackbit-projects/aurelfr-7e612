@@ -29,7 +29,7 @@ sections:
       10. ###### En Inde, Aurel disposent des formations contre l'expotation des
       enfants
     actions:
-      - label: Try Free
+      - label: Découvrez nos actions à venir
         url: /pricing
         style: link
         has_icon: true
