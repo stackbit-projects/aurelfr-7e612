@@ -77,12 +77,12 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
+      - content: >
           **Eleanor Carr,** *CTO, Studio*
+
+
+          > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
