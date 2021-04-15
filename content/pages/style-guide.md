@@ -116,7 +116,7 @@ This is [an example](http://example.com) link.
         <td>-3,6</td>
         <td>594'0</td>
         <td>345'9</td>
-        <td>675'5<>
+        <td>675'5</td>
       </tr>
       <tr>
         <td>Body content</td>
