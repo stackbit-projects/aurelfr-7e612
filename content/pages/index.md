@@ -19,7 +19,7 @@ sections:
     media_position: right
     media_width: fifty
     align: left
-    padding_top: none
+    padding_top: small
     padding_bottom: none
     background_color: none
     video_embed_html: >-
