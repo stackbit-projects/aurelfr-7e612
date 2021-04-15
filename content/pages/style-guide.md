@@ -113,7 +113,7 @@ This is [an example](http://example.com) link.
         <td>Mais</td>
         <td>Graines de soja</td>
         <td>Blé</td>
-        <td></td>
+        <td>Café</td>
       </tr>
       <tr>
         <td>Body content</td>
