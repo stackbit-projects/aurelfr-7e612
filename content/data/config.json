@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "présentation du groupe Aurel",
+                "label": "Présentation du groupe Aurel",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
