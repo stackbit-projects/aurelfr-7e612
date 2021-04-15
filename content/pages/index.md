@@ -24,7 +24,7 @@ sections:
     background_color: none
     video_embed_html: >-
       <iframe "width=560px" "height=900px"
-      "src="https://www.youtube-nocookie.com/embed/lhP7JR3V1Ww?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&mute=1;loop=1"
+      "src="https://www.youtube-nocookie.com/embed/lhP7JR3V1Wwrel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&mute=1;loop=1"
       frameborder="0" allowfullscreen></iframe>
   - type: grid_section
     title: Image Grid
