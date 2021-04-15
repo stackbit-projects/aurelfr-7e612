@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Presentation du Groupe",
+                "label": "Découvrir le Groupe Aurel",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
