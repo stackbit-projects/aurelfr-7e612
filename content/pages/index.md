@@ -73,12 +73,10 @@ sections:
     image: images/Pixel.png
   - type: grid_section
     grid_items:
-      - content: >
+      - content: |
           **Ahmet Hassan,** *App Developer, Studio*
 
-
-          > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          > Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
