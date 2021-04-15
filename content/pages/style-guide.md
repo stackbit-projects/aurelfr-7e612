@@ -111,7 +111,7 @@ This is [an example](http://example.com) link.
     <tbody>
       <tr>
         <td>Mais</td>
-        <td>Body content</td>
+        <td></td>
         <td>Body content</td>
         <td>Body content</td>
       </tr>
