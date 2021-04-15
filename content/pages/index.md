@@ -74,7 +74,7 @@ sections:
   - type: grid_section
     grid_items:
       - content: >
-          **Hanson Deck,** *App Developer, Studio*
+          **Ahmet Hassan,** *App Developer, Studio*
 
 
           > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
