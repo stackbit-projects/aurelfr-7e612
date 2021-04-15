@@ -56,17 +56,8 @@ sections:
       responsabilité éthique
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Nos ambassadeurs les plus fidèles témoignent de notre impact
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
