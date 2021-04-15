@@ -61,7 +61,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         subtitle: demo
-        content_align: right
+        content_align: left
         title: DEMO
         title_align: right
       - image: images/logo-2.svg
