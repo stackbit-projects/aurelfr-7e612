@@ -269,7 +269,7 @@ sections:
         image_align: center
         content_align: right
         title_align: center
-        image_position: left
+        image_position: top
         image_width: sixty
         image_has_padding: true
       - image: images/logo-2.svg
