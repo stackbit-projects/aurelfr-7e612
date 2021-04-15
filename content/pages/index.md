@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     subtitle: Découvrez nos actions concretes sur cette thématique
     content: >
-      1.  ###### Aurel aide les agriculteurs algériens à valoriser leur production 
+      1.  ###### Aurel aide les agriculteurs algériens à valoriser leur
+      production 
 
       2.  ###### Les producteur de ble ukrainiens s'appuyassent sur Aurel 
 
@@ -12,16 +13,18 @@ sections:
 
       4.  ###### Les viticulteurs français bénéficient d'un soutien a l'export 
 
-      5.  ###### En Chine, le group aurel inagure les premiers parteneriats durables 
+      5.  ###### En Chine, le group aurel inagure les premiers parteneriats
+      durables 
 
-      6.  ###### Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
-      fines 
+      6.  ###### Les noix moldaves peuvent desormais rejoindre les rayons des
+      epiceries fines 
 
       7.  ###### Au Bresil Aurel lutte contre la deforestation 
 
       8.  ###### En Guyanne francaise Aurel et Auplata Mining Group s'engage 
 
-      9.  ###### Les producteur de riz maliens sont aides a faire pousser leur plantes 
+      9.  ###### Les producteur de riz maliens sont aides a faire pousser leur
+      plantes 
 
       10. ###### En Inde, Aurel disposent des formations contre l'expotation des
       enfants
@@ -29,9 +32,6 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: Learn More
-        url: /features
-        style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: right
