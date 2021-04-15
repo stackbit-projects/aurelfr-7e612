@@ -273,7 +273,7 @@ sections:
         image_width: sixty
         image_has_padding: true
         content: |
-          0,023€ | la tonne | \[+0,8%] ↑
+          0,023€ | Kg | \[+0,8% ↑] 
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
