@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Découvrez nos actions concretes sur cette thématique
+    subtitle: Découvrez nos actions sur cette thématique
     content: >
       ***
 
@@ -28,8 +28,9 @@ sections:
       9.  ###### Les producteur de riz maliens sont aides a faire pousser leur
       plantes
 
-      10. ###### En Inde, Aurel disposent des formations contre l'expotation des enfants
-      
+      10. ###### En Inde, Aurel disposent des formations contre l'expotation des
+      enfants
+
       ***
     actions:
       - label: Actions à venir
