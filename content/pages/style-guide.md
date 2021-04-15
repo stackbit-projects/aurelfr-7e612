@@ -115,7 +115,7 @@ This is [an example](http://example.com) link.
         <td>612'5</td>
         <td>-3,6</td>
         <td>594'0</td>
-        <td>345
+        <td>345'
       </tr>
       <tr>
         <td>Body content</td>
