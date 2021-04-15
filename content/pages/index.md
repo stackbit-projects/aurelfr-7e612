@@ -20,7 +20,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: small
     background_color: none
     video_embed_html: >-
       <iframe width="600" height="1015"
