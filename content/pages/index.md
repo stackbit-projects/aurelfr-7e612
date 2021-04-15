@@ -22,6 +22,14 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    video_embed_html: >-
+      <iframe src="https://player.vimeo.com/video/126892788" width="640"
+      height="360" frameborder="0" allow="autoplay; fullscreen;
+      picture-in-picture" allowfullscreen></iframe>
+
+      <p><a href="https://vimeo.com/126892788">Ingenico Corporate</a> from <a
+      href="https://vimeo.com/user2416697">Yohann Charrin</a> on <a
+      href="https://vimeo.com">Vimeo</a>.</p>
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
