@@ -112,7 +112,7 @@ This is [an example](http://example.com) link.
       <tr>
         <td>Mais</td>
         <td>Avril</td>
-        <td></td>
+        <td>612</td>
         <td>Café</td>
       </tr>
       <tr>
