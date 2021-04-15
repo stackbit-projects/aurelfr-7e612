@@ -9,8 +9,7 @@ sections:
       3.  Aurel s'implique au prés des producteurs de cacao en Argentine
       4.  Les viticulteurs français bénéficient d'un soutien a l'export
       5.  En Chine, le group aurel inagure les premiers parteneriats durables
-      6.  Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
-      fines
+      6.  Les noix moldaves peuvent desormais rejoindre les rayons des epiceries fines
       7.  Au Bresil Aurel lutte contre la deforestation
       8.  En Guyanne francaise Aurel et Auplata Mining Group s'engage
       9.  Les producteur de riz maliens sont aides a faire pousser leur plantes
