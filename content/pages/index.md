@@ -22,7 +22,9 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    video_embed_html: autoplay=1&mute=1
+    video_embed_html: >-
+      <iframe src="http://www.youtube.com/embed/xzvScRnF6MU?autoplay=1"
+      width="960" height="447" frameborder="0" allowfullscreen></iframe>
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
