@@ -4,16 +4,11 @@ sections:
   - type: hero_section
     subtitle: 'Découvrez nos rapports :'
     content: |
-      *   Lorem ipsum 
-
+      +   Lorem ipsum 
       *   Dolor sit amet
-
       *   Consectetur 
-
       *   Adipiscing elit
-
       *   Donec nisl ligula
-
       *   Cursus id molestie
     actions:
       - label: Try Free
