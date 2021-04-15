@@ -61,7 +61,7 @@ sections:
           **Hanson Deck,** *App Developer, Studio*
 
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
         image: images/hanson-deck.png
         image_alt: Hanson Deck
