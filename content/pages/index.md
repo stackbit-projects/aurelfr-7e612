@@ -104,7 +104,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          **Gordon Norman,** *Web Designer, Studio*
+          **Robert Goncalves,** *Web Designer, Studio*
 
 
           > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
