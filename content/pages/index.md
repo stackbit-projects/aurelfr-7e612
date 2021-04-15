@@ -272,7 +272,6 @@ sections:
         image_position: top
         image_width: sixty
         image_has_padding: true
-        subtitle: Au 15 Avril 2021
         content: |
           0,023€ | la tonne | \[+0,8%] ↑
       - image: images/logo-2.svg
