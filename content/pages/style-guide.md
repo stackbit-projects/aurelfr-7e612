@@ -111,7 +111,7 @@ This is [an example](http://example.com) link.
     <tbody>
       <tr>
         <td>Mais</td>
-        <td>Graines de soja</td>
+        <td>Avril</td>
         <td>Blé</td>
         <td>Café</td>
       </tr>
