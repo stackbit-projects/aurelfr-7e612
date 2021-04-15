@@ -85,7 +85,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "English |  中文 | РУССКИЙ | Français | Español | Português | Italiano\n",
+        "anncmnt_content": "English |  中文 | Русский | Français | Español | Português | Italiano\n",
         "anncmnt_align": "right",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
