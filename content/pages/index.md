@@ -268,7 +268,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         content_align: right
-        title_align: right
+        title_align: center
         image_position: left
         image_width: sixty
         image_has_padding: true
