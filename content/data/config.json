@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Découvrir le Groupe Aurel",
+                "label": "présentation du groupe la poste",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
