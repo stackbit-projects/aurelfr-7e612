@@ -104,7 +104,7 @@ This is [an example](http://example.com) link.
         <th>Dernier</th>
         <th>Change</th>
         <th>Priorité</th>
-        
+        <>
       </tr>
     </thead>
     <tbody>
