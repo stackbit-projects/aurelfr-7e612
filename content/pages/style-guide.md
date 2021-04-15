@@ -105,7 +105,7 @@ This is [an example](http://example.com) link.
         <th>Change</th>
         <th>Priorité</th>
         <th>Ouverture</th>
-        <>
+        <th>
       </tr>
     </thead>
     <tbody>
