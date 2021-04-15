@@ -129,8 +129,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
