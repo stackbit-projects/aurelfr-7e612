@@ -99,7 +99,7 @@ This is [an example](http://example.com) link.
       <caption>Table with thead, tfoot, and tbody</caption>
     <thead>
       <tr>
-        <th>Header content</th>
+        <th></th>
         <th>Header content</th>
         <th>Header content</th>
         <th>Header content</th>
