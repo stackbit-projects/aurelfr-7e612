@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: none
     video_embed_html: >-
-      <iframe style="width: 500px; height:
+      <iframe style="width: 600px; height:
       900px;"src="https://www.youtube-nocookie.com/embed/vTm7t9JBGfM?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&mute=1"
       frameborder="0" "loop=1" allowfullscreen></iframe>
   - type: grid_section
