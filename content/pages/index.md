@@ -94,7 +94,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          **Eleanor Carr,** *CTO, Studio*
+          **Xi Liang,** *CTO, Studio*
 
 
           > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
