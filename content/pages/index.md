@@ -55,7 +55,7 @@ sections:
       Matières premières agricoles durables : Plus q'un défis, une
       responsabilité éthique
   - type: grid_section
-    title: Reviews Section
+    title: Que disent nos clients ?
     subtitle: Grid Section Example
     grid_items:
       - content: >-
