@@ -57,7 +57,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/brandon-guidelines.png
         image_alt: Contentful logo
         image_align: center
         subtitle: demo
