@@ -114,7 +114,7 @@ This is [an example](http://example.com) link.
         <td>Avril</td>
         <td>612'5</td>
         <td>-3,6</td>
-        <td>
+        <td>594'
       </tr>
       <tr>
         <td>Body content</td>
