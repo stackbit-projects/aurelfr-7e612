@@ -301,6 +301,7 @@ sections:
     enable_cards: true
     background_color: none
     title: Le cours des matières
+    subtitle: 'Bourse de Paris '
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     actions: []
