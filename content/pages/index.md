@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'La distribution de vin sur internet : de l''analyse a l''implementa'
+    title: Au nom de toute l'équipe d'Aurel Group je vous souhaite la bienvenue.
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
