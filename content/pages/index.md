@@ -85,7 +85,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - type: grid_section
-    title: Nos ambassadeurs les plus fidèles témoignent de notre impact
     grid_items:
       - content: >
           **Hanson Deck,** *App Developer, Studio*
