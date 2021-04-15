@@ -2,9 +2,7 @@
  * Site Header
  */
 .site-header {
-    //border-bottom: 1px solid $color-header-border;
-    border: 0px 0px 10px 10px solid;
-    border-image: linear-gradient(#f6b73c, #4d9f0c) 300;
+    border-bottom: 1px solid $color-header-border;
 }
 
 .navbar__logo,
