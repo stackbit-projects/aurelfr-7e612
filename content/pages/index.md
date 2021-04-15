@@ -87,12 +87,12 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
+      - content: >
           **Gordon Norman,** *Web Designer, Studio*
+
+
+          > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
