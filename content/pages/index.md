@@ -32,6 +32,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: link
+        has_icon: true
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: right
