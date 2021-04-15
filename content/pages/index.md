@@ -33,6 +33,7 @@ sections:
         url: /pricing
         style: link
         has_icon: true
+        icon: arrow-right
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: right
