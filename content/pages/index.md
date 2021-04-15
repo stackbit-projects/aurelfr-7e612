@@ -93,6 +93,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     background_color: none
+    title: 'Que disent nos '
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
