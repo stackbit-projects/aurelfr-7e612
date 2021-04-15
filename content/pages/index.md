@@ -272,7 +272,6 @@ sections:
         image_position: top
         image_width: sixty
         image_has_padding: true
-        title: Cours du maïs
         subtitle: Au 15 Avril 2021
         content: |
           0,023€ | la tonne | \[+0,8%] ↑
