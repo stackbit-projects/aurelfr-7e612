@@ -273,7 +273,7 @@ sections:
         image_width: sixty
         image_has_padding: true
         title: Cours du maïs
-        subtitle: 'Au 15 Avril '
+        subtitle: Au 15 Avril 2
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
