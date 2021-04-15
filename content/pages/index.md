@@ -257,10 +257,7 @@ sections:
     background_color: primary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: bottom
     align: center
     padding_top: large
