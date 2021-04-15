@@ -103,7 +103,7 @@ This is [an example](http://example.com) link.
         <th>Mois</th>
         <th>Dernier</th>
         <th>Change</th>
-        <th></th>
+        <th>Priorite</th>
       </tr>
     </thead>
     <tbody>
