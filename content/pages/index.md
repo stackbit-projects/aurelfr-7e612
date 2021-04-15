@@ -26,7 +26,7 @@ sections:
       src=https://www.youtube-nocookie.com/embed/5723ieP5VAQ?rel=0&amp;controls=0&amp;showinfo=0&amp;autoplay=1&mute=1;loop=1"
       frameborder="0" allowfullscreen></iframe>
     title: >-
-      Matières premières agricoles durables : Des défis auquel nous répondons
+      Matières premières agricoles durables : Un défis auquel nous répondons
       présents 
   - type: grid_section
     align: center
