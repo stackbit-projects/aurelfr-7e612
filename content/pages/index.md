@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Découvrez nos engagements sur cette thématique
+    subtitle: Découvrez nos actions sur cette thématique
     content: |
       1.  Lorem ipsum
       2.  Dolor sit amet
