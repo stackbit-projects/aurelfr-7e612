@@ -81,7 +81,7 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "secondary"
             }
         ],
         "has_anncmnt": true,
