@@ -76,7 +76,7 @@
             {
                 "label": "Get Started",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Contact",
