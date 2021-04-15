@@ -6,10 +6,10 @@ sections:
     content: |
       +   Lorem ipsum 
       +   Dolor sit amet
-      *   Consectetur 
-      *   Adipiscing elit
-      *   Donec nisl ligula
-      *   Cursus id molestie
+      +   Consectetur 
+      +   Adipiscing elit
+      +   Donec nisl ligula
+      +   Cursus id molestie
     actions:
       - label: Try Free
         url: /pricing
