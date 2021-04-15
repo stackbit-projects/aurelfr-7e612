@@ -4,9 +4,6 @@ sections:
   - type: hero_section
     subtitle: Mot du Président
     content: >
-      # kgadkjvdj dazkgdaz kagzdaz khazd 
-
-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
