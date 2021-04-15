@@ -101,7 +101,7 @@ This is [an example](http://example.com) link.
       <tr>
         <th>Produit</th>
         <th>Mois</th>
-        <th></th>
+        <th>Dernier</th>
         <th>Header content</th>
       </tr>
     </thead>
