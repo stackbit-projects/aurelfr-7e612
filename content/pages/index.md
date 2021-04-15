@@ -84,7 +84,7 @@ sections:
           ipsum dolor sit amet, consectetur adipiscing elit.
         image: images/hanson-deck.png
         image_alt: Hanson Deck
-        image_position: top
+        image_position: left
         image_width: twenty-five
         content_align: left
       - content: >
