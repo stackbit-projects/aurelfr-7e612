@@ -274,6 +274,8 @@ sections:
         image_has_padding: true
         title: Cours du maïs
         subtitle: Au 15 Avril 2021
+        content: |
+          0,023€ | la tonne | \[+0,8%] ↑
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
