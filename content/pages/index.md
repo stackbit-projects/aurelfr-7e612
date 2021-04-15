@@ -27,7 +27,7 @@ sections:
       frameborder="0" allowfullscreen></iframe>
     title: >-
       Matières premières agricoles durables : Un défis auquel nous répondons
-      présents 
+      présent 
   - type: grid_section
     align: center
     grid_items:
