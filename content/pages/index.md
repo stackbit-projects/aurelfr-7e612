@@ -85,6 +85,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: false
+    background_color: primary
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
