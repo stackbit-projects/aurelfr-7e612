@@ -268,7 +268,6 @@ sections:
         image_alt: Contentful logo
         image_align: center
         content_align: right
-        title: Jean Dupuis
         title_align: right
         image_position: left
         image_width: sixty
