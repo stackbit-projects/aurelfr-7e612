@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "DIY",
-        "logo": "images/Aurel_Group_Logo.svg",
+        "logo": "images/f.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": false,
         "primary_nav_links": [
