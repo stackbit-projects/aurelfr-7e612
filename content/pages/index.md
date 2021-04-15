@@ -3,9 +3,18 @@ title: Home
 sections:
   - type: hero_section
     subtitle: 'Découvrez nos rapports :'
-    content: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      *   Lorem ipsum 
+
+      *   Dolor sit amet
+
+      *   Consectetur 
+
+      *   Adipiscing elit
+
+      *   Donec nisl ligula
+
+      *   Cursus id molestie
     actions:
       - label: Try Free
         url: /pricing
