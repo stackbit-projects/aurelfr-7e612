@@ -55,7 +55,7 @@ sections:
       Matières premières agricoles durables : Plus q'un défis, une
       responsabilité éthique
   - type: grid_section
-    title: Nos producteurs témoignent
+    title: Nos ambassadeurs les plus fidèles témoignent de notre impact
     grid_items:
       - content: >
           **Hanson Deck,** *App Developer, Studio*
