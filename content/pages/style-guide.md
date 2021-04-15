@@ -110,7 +110,7 @@ This is [an example](http://example.com) link.
     </thead>
     <tbody>
       <tr>
-        <td></td>
+        <td>Mais</td>
         <td>Body content</td>
         <td>Body content</td>
         <td>Body content</td>
