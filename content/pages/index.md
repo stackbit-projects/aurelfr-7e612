@@ -62,7 +62,7 @@ sections:
         image_align: center
         subtitle: demo
         content_align: right
-        title: DEMO
+        title: Jean Dupuis
         title_align: right
         image_position: left
         image_width: sixty
