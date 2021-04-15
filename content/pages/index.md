@@ -27,7 +27,7 @@ sections:
       frameborder="0" allowfullscreen></iframe>
     title: >-
       Matières premières agricoles et ingredients industriels : Des défis auquel
-      nous repondont présents 
+      nous répondons présents 
   - type: grid_section
     align: center
     grid_items:
