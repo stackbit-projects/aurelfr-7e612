@@ -87,6 +87,7 @@ sections:
         image_position: left
         image_width: twenty-five
         content_align: left
+        image_align: center
       - content: >
           **Yurie Murad,** *CEO, Studio*
 
