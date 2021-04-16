@@ -459,7 +459,7 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: tertiary
+    background_color: primary
     has_border: false
     padding_bottom: small
     padding_top: large
