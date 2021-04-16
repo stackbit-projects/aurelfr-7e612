@@ -315,14 +315,6 @@ sections:
     background_color: primary
     title: Le cours des matières
     subtitle: Bourse de Paris | 15/04/2021
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    actions: []
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: small
-    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
