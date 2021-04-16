@@ -119,16 +119,7 @@ sections:
     align: center
     background_color: tertiary
     enable_cards: true
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     background_image_position: right bottom
     background_image_size: cover
     background_image_opacity: 40
