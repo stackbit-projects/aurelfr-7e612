@@ -425,7 +425,7 @@ sections:
     media_position: top
     media_width: fifty
     align: left
-    padding_top: none
+    padding_top: small
     padding_bottom: none
     has_border: false
     background_color: secondary
