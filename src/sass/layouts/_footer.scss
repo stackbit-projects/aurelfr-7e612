@@ -5,11 +5,12 @@
 .site-footer__info {
     border-top: 1px solid #C3C3C1; //border-top: 1px solid $color-footer-border;
     background-color: #d0d0ce; //new
-   // color: #5E5E5A; //new
+   // 
 }
 
 .site-footer__menu {
-	max-width: 270px;
+    max-width: 270px;
+    color: #5E5E5A; //new
 }
 
 .site-footer__copyright,
