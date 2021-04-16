@@ -59,7 +59,7 @@ sections:
       responsabilité éthique
     background_image_position: right bottom
     background_image_opacity: 0
-    background_image_size: cover
+    background_image_size: contain
     background_image: images/test_Plan de travail 1.svg
   - content: |
       #### Découvrez les témoignages de nos producteurs
