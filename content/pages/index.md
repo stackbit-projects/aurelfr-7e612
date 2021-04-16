@@ -189,7 +189,7 @@ sections:
             icon_position: right
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: right
         media_width: fifty
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
