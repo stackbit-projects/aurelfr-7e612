@@ -173,6 +173,8 @@ sections:
         image_alt: Netlify logo
         image_align: center
         image_has_padding: true
+        content: |
+          0,023€/Kg  |  +0,8% ▲
       - image: images/classic/icon-2.svg
         image_alt: Gatsby logo
         image_align: center
