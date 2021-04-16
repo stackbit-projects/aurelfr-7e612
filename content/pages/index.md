@@ -343,7 +343,7 @@ sections:
     has_border: false
   - type: blog_feed_section
     actions:
-      - label: VOIR PLUS D'ACTUALITES
+      - label: VOIR PLUS D'ACTUALITÉS
         url: /blog
         style: link
         icon_position: right
