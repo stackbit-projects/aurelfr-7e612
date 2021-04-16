@@ -113,7 +113,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
-    align: left
+    align: center
     background_color: tertiary
     enable_cards: true
     actions:
