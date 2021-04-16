@@ -118,7 +118,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: right
         image_width: fifty
-        image_align: center
+        image_align: right
         image_has_padding: false
         type: grid_item
         image: images/classic/icon-2.svg
