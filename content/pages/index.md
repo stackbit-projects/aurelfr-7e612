@@ -166,7 +166,7 @@ sections:
         title_align: right
         image_position: left
         image_width: fifty
-        image_has_padding: true
+        image_has_padding: false
         content: |
           ###### <mark>ZLK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
         title: Soybean Oil Futures
