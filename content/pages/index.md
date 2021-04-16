@@ -295,7 +295,7 @@ sections:
       - title: Dianne Ameter
         subtitle: Software Engineer
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/classic/icon-2.svg
         image_position: top
       - title: Hugh Saturation
         subtitle: Developer Advocate
