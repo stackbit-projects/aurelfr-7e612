@@ -110,8 +110,7 @@ sections:
         image_align: center
         title_align: left
         content_align: left
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
