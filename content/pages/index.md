@@ -159,7 +159,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/Sans titre - 9_Plan de travail 1.svg
+      - image: images/Hausse_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: center
         content_align: right
