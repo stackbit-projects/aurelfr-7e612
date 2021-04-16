@@ -118,7 +118,7 @@ sections:
     grid_gap_vert: small
     align: center
     background_color: secondary
-    enable_cards: false
+    enable_cards: true
     actions: []
     background_image_position: right bottom
     background_image_size: cover
