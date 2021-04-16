@@ -115,7 +115,7 @@ sections:
         content_align: left
         image_has_padding: true
         actions:
-          - label: lorem-ipsum
+          - label: VOIR TOUS LES TÉMOIGNAGES
             url: '#'
             style: link
             has_icon: false
