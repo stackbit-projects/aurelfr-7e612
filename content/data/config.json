@@ -339,7 +339,7 @@
                 "type": "action"
             },
             {
-                "label": "Analyse ",
+                "label": "Analyses ",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
