@@ -343,7 +343,7 @@ sections:
     has_border: false
   - type: blog_feed_section
     actions:
-      - label: Voir plus
+      - label: VOIR PLUS
         url: /blog
         style: link
         icon_position: right
