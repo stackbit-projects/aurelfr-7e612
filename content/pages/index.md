@@ -288,7 +288,7 @@ sections:
     title: Le cours des matières
     subtitle: Bourse de Paris | 15/04/2021
   - type: blog_feed_section
-    title: What's New
+    title: Actualités du marché
     subtitle: Blog Feed Section Example
     actions:
       - label: View All
