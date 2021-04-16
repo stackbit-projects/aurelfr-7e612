@@ -247,7 +247,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/about-1.jpg
+      - image: images/Aurel_Group_Logo.svg
         image_alt: Contentful logo
         image_align: center
         content_align: center
