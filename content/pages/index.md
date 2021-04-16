@@ -120,7 +120,16 @@ sections:
     align: center
     background_color: none
     enable_cards: false
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     background_image_position: right bottom
     background_image_size: cover
     background_image_opacity: 40
