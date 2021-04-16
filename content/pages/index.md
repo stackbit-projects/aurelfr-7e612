@@ -191,7 +191,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    background_image: images/corner_page.svg
+    background_image: images/Sans titre - 8_Plan de travail 1.svg
     background_image_position: right bottom
     background_image_size: contain
   - actions: []
