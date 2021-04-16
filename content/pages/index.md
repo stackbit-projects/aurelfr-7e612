@@ -168,15 +168,7 @@ sections:
         image_width: fifty
         image_has_padding: true
         content: |+
-          ###### 0,023€/Kg  |  +0,8% ▲
-
-          ZLK1
-
-          55.84
-
-          17,804
-
-          \+0.95(+1.73%)
+          ###### ZLK1 | 55.84 |  17,804 | +0.95(+1.73%) ▲
 
         title: Soybean Oil Futures
       - image: images/classic/icon-2.svg
