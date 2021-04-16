@@ -173,6 +173,10 @@
 	background: $color-secondary-sect-bg;
 }
 
+.bg-tertiary {
+	background: $color-tertiary-sect-bg;
+}
+
 @each $style in map-keys($theme-styles) {
 	$style-suffix: "#{$style}";
 	$colors: map-deep-get($theme-styles, $style, "colors");
