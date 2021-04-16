@@ -103,6 +103,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_align: center
+        image_has_padding: true
       - content: "**Yurie Murad,**\_*CEO, Studio*\n\n> ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n"
         image: images/gordon-norman.png
         image_alt: Gordon Norman
