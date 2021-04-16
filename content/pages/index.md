@@ -91,6 +91,7 @@ sections:
         image_position: left
         image_width: twenty-five
         image_align: center
+        image_has_padding: true
       - content: >
           **Xi Liang,** *CTO, Studio*
 
