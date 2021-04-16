@@ -59,7 +59,7 @@ sections:
       responsabilité éthique
     background_image_position: right bottom
     background_image_opacity: 0
-    background_image_size: cover
+    background_image_size: auto
   - content: |
       #### Découvrez les témoignages de nos producteurs
     actions: []
