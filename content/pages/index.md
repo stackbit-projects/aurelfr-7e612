@@ -231,7 +231,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    title: '▎Le cours des matières premières agricoles et l''actualité du marché '
+    title: ▎Cours des matières premières agricoles et l'actualité du marché
     subtitle: '* Bourse de Paris | 15/04/2021'
   - type: grid_section
     align: center
