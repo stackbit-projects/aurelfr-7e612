@@ -183,7 +183,7 @@ sections:
         image_alt: Sanity logo
         image_align: center
         image_has_padding: true
-      - image: images/logo-5.svg
+      - image: images/classic/icon-2.svg
         image_alt: DatoCMS logo
         image_align: center
         image_has_padding: true
