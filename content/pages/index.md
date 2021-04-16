@@ -173,7 +173,9 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        title: "❯ Parce que vous pouvais atteindre une qualité irréprochable\_de nos produits , en tous temps et lieu."
+        title: >-
+          ❯ Parce que vous pouvais atteindre une qualité irréprochable de nos
+          produits , en tous temps et lieu.
       - title: >-
           ❯ Parce que nos prix, en plus d'être compétitifs, ils rémunère
           correctement ceux qui à la sueur de leur front nous font manger.
