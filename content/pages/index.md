@@ -115,7 +115,7 @@ sections:
         image_has_padding: true
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: small
     align: center
     background_color: tertiary
     enable_cards: true
