@@ -312,7 +312,7 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-    has_border: true
+    has_border: false
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
