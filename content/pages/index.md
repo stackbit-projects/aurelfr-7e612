@@ -117,7 +117,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
-    align: left
+    align: center
     background_color: none
     enable_cards: false
     actions:
