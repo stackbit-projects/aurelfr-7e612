@@ -307,7 +307,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: tertiary
+    background_color: primary
   - type: grid_section
     actions: []
     grid_items:
