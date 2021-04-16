@@ -154,7 +154,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    title: ▎Pourquoi faire d'Aurel son fournisseur de matières premières ?
+    title: ▎Pourquoi faire d'Aurel votre fournisseur de matières premières ?
   - type: features_section
     features:
       - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
