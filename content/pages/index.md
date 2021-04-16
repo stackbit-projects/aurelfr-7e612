@@ -195,7 +195,7 @@ sections:
         image_alt: Gridsome logo
         image_align: center
         image_has_padding: true
-      - image: images/logo-8.svg
+      - image: images/classic/icon-2.svg
         image_alt: Git logo
         image_align: center
         image_has_padding: true
