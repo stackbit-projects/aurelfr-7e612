@@ -200,7 +200,7 @@
         "secondary_nav_title": "PRODUITS",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Grains",
                 "url": "/blog/category/news",
                 "style": "link"
             },
