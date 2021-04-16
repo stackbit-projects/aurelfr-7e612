@@ -155,7 +155,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    title: test
+    title: ▎Découvrez les témoignages de nos producteurs
   - type: features_section
     features:
       - title: The Big Title For the Feature
