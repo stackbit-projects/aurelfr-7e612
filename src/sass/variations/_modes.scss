@@ -86,8 +86,20 @@
 		}
 	}
 
+.bg-primary {
+		color: $color-primary-sect-text;
 
-    
+		pre,
+		th {
+			background: 0;
+		}
+
+		.btn--primary {
+			background-color: $color-primary-sect-btn-bg;
+			color: $color-primary-sect-btn-text;
+		}
+	}
+
 	.bg-primary,
 	.bg-secondary {
 		input[type="text"],
