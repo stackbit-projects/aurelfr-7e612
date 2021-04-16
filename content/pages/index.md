@@ -164,7 +164,7 @@ sections:
         image_align: center
         content_align: right
         title_align: right
-        image_position: top
+        image_position: left
         image_width: fifty
         image_has_padding: true
         content: |
