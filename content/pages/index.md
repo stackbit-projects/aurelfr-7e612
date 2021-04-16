@@ -174,7 +174,7 @@ sections:
         media_position: right
         media_width: fifty
         title: >-
-          Parce que la qualité de nos produits saura irréprochable, en tous
+          ❯ Parce que la qualité de nos produits saura irréprochable, en tous
           temps et lieu.
       - title: 2. Des prix compétitifs et justes pour les producteurs.
         content: >-
