@@ -420,6 +420,7 @@ sections:
     background_color: none
     background_image_position: right bottom
     background_image_size: contain
+    background_image: images/Sans titre - 9_Plan de travail 1.svg
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
