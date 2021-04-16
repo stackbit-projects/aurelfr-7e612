@@ -169,6 +169,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
+    title: test
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
