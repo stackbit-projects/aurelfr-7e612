@@ -60,7 +60,7 @@ sections:
     background_image_position: right center
     background_image_opacity: 0
     background_image_size: auto
-    background_image: images/test_Plan de travail 1.svg
+    background_image: images/Sans titre - 9_Plan de travail 1.svg
   - content: |
       #### Découvrez les témoignages de nos producteurs
     actions: []
