@@ -160,7 +160,7 @@ sections:
     title: ▎Pourquoi faire d'Aurel son fournisseur de matières premières ?
   - type: features_section
     features:
-      - title: 1. Qualité
+      - title: 1. Qualité irréprochable
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
