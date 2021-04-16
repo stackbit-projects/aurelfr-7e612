@@ -175,7 +175,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
         image_has_padding: true
-      - image: images/logo-3.svg
+      - image: images/classic/icon-2.svg
         image_alt: Gatsby logo
         image_align: center
         image_has_padding: true
