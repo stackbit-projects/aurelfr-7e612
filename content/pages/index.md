@@ -163,7 +163,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         content_align: right
-        title_align: center
+        title_align: right
         image_position: top
         image_width: fifty
         image_has_padding: true
