@@ -314,7 +314,7 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: primary
+    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
