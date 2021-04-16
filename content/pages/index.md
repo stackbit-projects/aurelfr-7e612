@@ -112,6 +112,7 @@ sections:
         image_align: center
         title_align: left
         content_align: left
+        image_has_padding: true
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
