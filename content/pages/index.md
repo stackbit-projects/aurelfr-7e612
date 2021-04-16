@@ -232,6 +232,7 @@ sections:
     type: hero_section
     image: images/Pixel.png
     title: ▎Pourquoi faire d'Aurel votre fournisseur de matières premières ?
+    subtitle: Bourse de Paris | 15/04/2021
   - type: grid_section
     align: center
     grid_items:
