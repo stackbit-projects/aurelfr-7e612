@@ -343,7 +343,7 @@ sections:
     has_border: false
   - type: blog_feed_section
     actions:
-      - label: VOIR PLUS D4
+      - label: VOIR PLUS D'ACTUALITES
         url: /blog
         style: link
         icon_position: right
