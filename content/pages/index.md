@@ -65,7 +65,7 @@ sections:
       ### ▎Découvrez les témoignages de nos producteurs
     actions: []
     image_alt: lorem-ipsum
-    media_position: left
+    media_position: right
     media_width: fourty
     align: right
     padding_top: small
