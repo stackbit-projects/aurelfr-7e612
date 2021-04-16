@@ -313,6 +313,7 @@ sections:
     align: center
     background_color: secondary
     has_border: false
+    padding_bottom: small
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
