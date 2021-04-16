@@ -419,7 +419,7 @@ sections:
     align: center
     background_color: none
     background_image_position: right bottom
-    background_image_size: contain
+    background_image_size: cover
     background_image: images/Video.svg
   - actions: []
     image_alt: lorem-ipsum
