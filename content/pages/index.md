@@ -157,9 +157,7 @@ sections:
     title: ▎Pourquoi faire d'Aurel son fournisseur de matières premières ?
   - type: features_section
     features:
-      - title: >-
-          1. Parce que la qualité de nos produits sauras irréprochable, en tout
-          temp et lieu.
+      - title: "1.\_Parce\_que\_la\_qualité\_de\_nos\_produits\_saura\_irréprochable,\_en\_tous temps\_et\_lieu."
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
