@@ -420,35 +420,6 @@ sections:
     background_color: none
     background_image_position: right bottom
     background_image_size: contain
-  - type: grid_section
-    actions: []
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/classic/icon-1.svg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/classic/icon-2.svg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/classic/icon-3.svg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/classic/icon-2.svg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: tertiary
-    has_border: false
-    padding_bottom: small
-    padding_top: large
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
@@ -479,6 +450,35 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - type: grid_section
+    actions: []
+    grid_items:
+      - title: Gustav Purpleson
+        subtitle: Co-Founder & CEO
+        title_align: center
+        image: images/classic/icon-1.svg
+        image_position: top
+      - title: Dianne Ameter
+        subtitle: Software Engineer
+        title_align: center
+        image: images/classic/icon-2.svg
+        image_position: top
+      - title: Hugh Saturation
+        subtitle: Developer Advocate
+        title_align: center
+        image: images/classic/icon-3.svg
+        image_position: top
+      - title: Hilary Ouse
+        subtitle: Operations Manager
+        title_align: center
+        image: images/classic/icon-2.svg
+        image_position: top
+    grid_cols: four
+    align: center
+    background_color: tertiary
+    has_border: false
+    padding_bottom: small
+    padding_top: large
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
