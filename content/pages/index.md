@@ -84,8 +84,8 @@ sections:
           **Yurie Murad,** *CEO, Studio*
 
 
-          > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit.
+          > Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum
+          dolor sit amet, consectetur adipiscing elit.
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
