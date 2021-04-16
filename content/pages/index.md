@@ -340,6 +340,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     background_color: primary
+    has_border: true
   - type: blog_feed_section
     actions:
       - label: View All
