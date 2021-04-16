@@ -311,7 +311,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    enable_cards: true
+    enable_cards: false
     background_color: secondary
     title: Le cours des matières
     subtitle: Bourse de Paris | 15/04/2021
