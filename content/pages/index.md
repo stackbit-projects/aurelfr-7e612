@@ -110,7 +110,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: tertiary
+    background_color: primary
     enable_cards: false
     actions: []
     background_image: images/corner_page.svg
