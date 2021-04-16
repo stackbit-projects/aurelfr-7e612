@@ -66,7 +66,7 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: small
     padding_bottom: none
