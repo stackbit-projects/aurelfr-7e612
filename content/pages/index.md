@@ -176,7 +176,9 @@ sections:
         title: >-
           ❯ Parce que la qualité de nos produits saura irréprochable, en tous
           temps et lieu.
-      - title: ❯ Parce que nos prix sont compétitifs et justes pour les producteurs.
+      - title: >-
+          ❯ Parce que nos prix, en plus d'etre compétitifs ils sont justes pour
+          les producteurs.
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
