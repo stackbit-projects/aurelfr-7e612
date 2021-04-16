@@ -58,7 +58,7 @@ sections:
       Matières premières agricoles durables : Plus q'un défis, une
       responsabilité éthique
     background_image_position: right bottom
-    background_image_opacity: 10
+    background_image_opacity: 0
     background_image_size: cover
   - content: |
       #### Découvrez les témoignages de nos producteurs
