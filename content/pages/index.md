@@ -420,8 +420,7 @@ sections:
     background_color: none
     background_image_position: right bottom
     background_image_size: contain
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
