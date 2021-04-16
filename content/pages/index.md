@@ -363,6 +363,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    background_image: images/corner_page.svg
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
