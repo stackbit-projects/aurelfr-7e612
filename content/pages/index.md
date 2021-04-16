@@ -141,20 +141,6 @@ sections:
     type: hero_section
   - actions: []
     image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-  - actions: []
-    image_alt: lorem-ipsum
     media_position: left
     media_width: fifty
     align: left
@@ -230,6 +216,20 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+  - actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - type: features_section
     features:
       - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
