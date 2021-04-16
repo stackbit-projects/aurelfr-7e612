@@ -345,7 +345,7 @@ sections:
     actions:
       - label: View All
         url: /blog
-        style: secondary
+        style: link
         icon_position: right
     blog_feed_cols: three
     enable_cards: true
