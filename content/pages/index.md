@@ -314,7 +314,7 @@ sections:
     background_color: secondary
     has_border: false
     padding_bottom: none
-    padding_top: small
+    padding_top: none
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
