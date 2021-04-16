@@ -146,7 +146,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: none
-    has_border: false
+    has_border: true
     background_color: primary
     background_image_opacity: 0
     background_image_size: cover
@@ -312,7 +312,7 @@ sections:
         image_has_padding: false
         content: |
           ###### <mark>ZLK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
-        title: Soybean Oil Futures  
+        title: Soybean Oil Futures
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: center
@@ -334,7 +334,7 @@ sections:
         image_has_padding: false
         content: |
           ###### <mark>ZLK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
-        title: Soybean Oil Futures                              
+        title: Soybean Oil Futures
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
