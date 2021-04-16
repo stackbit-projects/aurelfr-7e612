@@ -1,13 +1,6 @@
 ---
 title: General enquiries
 sections:
-  - type: hero_section
-    title: This is the Hero
-    subtitle: The optional subtitle
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: secondary
   - type: form_section
     content: >-
       ### Billing
@@ -62,6 +55,13 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: primary
+  - type: hero_section
+    title: This is the Hero
+    subtitle: The optional subtitle
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    background_color: secondary
 seo:
   title: General Enquiries
   description: This is the general enquiries page
