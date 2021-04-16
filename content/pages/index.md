@@ -248,7 +248,8 @@ sections:
         image_width: fifty
         image_has_padding: true
         content: |
-          0,023€/Kg  |  +0,8% ▲    
+          0,023€/Kg  |  +0,8% ▲
+              
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
