@@ -191,6 +191,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    background_image: images/corner_page.svg
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
