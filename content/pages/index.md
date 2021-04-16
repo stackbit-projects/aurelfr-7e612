@@ -157,7 +157,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    title: ▎Pourquoi choisir Aurel
+    title: ▎Pourquoi faire d'Aurel son fournisseur de matières premieres agricoles ?
   - type: features_section
     features:
       - title: The Big Title For the Feature
