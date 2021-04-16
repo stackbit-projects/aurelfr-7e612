@@ -13,51 +13,7 @@ sections:
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-      
-## Tables
-
-<div class="responsive-table">
-  <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Produit</th>
-        <th>Mois</th>
-        <th>Dernier</th>
-        <th>Change</th>
-        <th>Priorité</th>
-        <th>Ouverture</th>
-        <th>Haux</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Mais</td>
-        <td>Avril</td>
-        <td>612'5</td>
-        <td>-3,6</td>
-        <td>594'0</td>
-        <td>345'9</td>
-        <td>675'5</td>
-      </tr>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content</td>
-        <td>Footer content</td>
-    <td>Footer content</td>
-    <td>Footer content</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>    
+      fringilla, fringilla.    
     content_align: left
     form_position: right
     form_width: fifty
