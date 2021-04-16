@@ -269,16 +269,17 @@ sections:
         content: |
           ###### <mark>ZLK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
         title: Soybean Oil Futures
-      - image: images/classic/icon-2.svg
+      - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: center
-        content_align: center
-        title_align: center
-        image_position: top
-        image_width: fifty
-        image_has_padding: true
+        content_align: right
+        title_align: right
+        image_position: left
+        image_width: thirty-three
+        image_has_padding: false
         content: |
-          0,023€/Kg  |  +0,8% ▲
+          ###### <mark>ZLK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
+        title: Soybean Oil Futures
       - image: images/classic/icon-2.svg
         image_alt: Contentful logo
         image_align: center
