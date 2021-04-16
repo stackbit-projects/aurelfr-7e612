@@ -7,7 +7,8 @@ sections:
       ***
 
 
-      1.  ###### ❯ [Les producteur de ble ukrainiens s'appuyassent sur Aurel >](http://example.com)
+      1.  ###### ❯ [ Aurel aide les agriculteurs algériens à valoriser leur
+      production >](http://example.com)
 
       2.  ###### [Les producteur de ble ukrainiens s'appuyassent sur Aurel >](http://example.com)
 
