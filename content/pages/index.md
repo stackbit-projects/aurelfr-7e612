@@ -117,7 +117,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     align: center
-    background_color: tertiary
+    background_color: secondary
     enable_cards: false
     actions: []
     background_image_position: right bottom
