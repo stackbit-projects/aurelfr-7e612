@@ -119,7 +119,7 @@ sections:
     background_image: images/corner_page.svg
     background_image_position: right bottom
     background_image_size: cover
-    background_image_opacity: 20
+    background_image_opacity: 50
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
