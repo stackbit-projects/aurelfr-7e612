@@ -121,7 +121,7 @@ sections:
     background_color: none
     enable_cards: false
     actions:
-      - label: VOIR TOUS LES TEMOIGNIAGES
+      - label: VOIR TOUS LES TÉMOIGNAGES
         url: '#'
         style: link
         has_icon: true
