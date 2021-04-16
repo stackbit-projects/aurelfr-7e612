@@ -8,7 +8,7 @@ sections:
 
 
       1.  ###### Aurel aide les agriculteurs algériens à valoriser leur
-      production >
+      production ❯
 
       2.  ###### Les producteur de ble ukrainiens s'appuyassent sur Aurel >
 
