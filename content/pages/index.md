@@ -167,7 +167,8 @@ sections:
         image_position: top
         image_width: fifty
         image_has_padding: true
-        content: "0,023€/Kg \U0001F4C8 +0,8% ▲\n"
+        content: |
+          0,023€/Kg  ⦀  +0,8% ▲
       - image: images/classic/icon-2.svg
         image_alt: Netlify logo
         image_align: center
