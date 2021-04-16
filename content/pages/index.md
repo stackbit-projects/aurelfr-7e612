@@ -192,6 +192,7 @@ sections:
     align: center
     background_color: none
     background_image: images/corner_page.svg
+    background_image_position: right bottom
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
