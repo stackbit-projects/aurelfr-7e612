@@ -121,7 +121,7 @@ sections:
     background_color: none
     enable_cards: false
     actions:
-      - label: lorem-ipsum
+      - label: VOIR TOUS LES TEMOIGNIAGES
         url: '#'
         style: link
         has_icon: true
