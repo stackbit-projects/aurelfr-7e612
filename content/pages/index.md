@@ -186,6 +186,7 @@ sections:
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
+        image_has_padding: true
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
