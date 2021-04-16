@@ -98,7 +98,7 @@
         "primary_nav_title": "NOTRE GROUP",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "Histoire",
                 "url": "/about",
                 "style": "link"
             },
