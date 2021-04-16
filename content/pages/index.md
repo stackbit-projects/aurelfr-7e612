@@ -115,7 +115,7 @@ sections:
     grid_gap_vert: large
     align: right
     background_color: tertiary
-    enable_cards: false
+    enable_cards: true
     actions:
       - label: lorem-ipsum
         url: '#'
