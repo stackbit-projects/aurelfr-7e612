@@ -110,18 +110,6 @@ sections:
         image_align: center
         title_align: left
         content_align: left
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: right
-        image_width: fifty
-        image_align: right
-        image_has_padding: false
-        type: grid_item
-        image: images/Fichier 1.svg
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
