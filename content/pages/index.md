@@ -139,7 +139,9 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: Découvrez les avantages d'une relation commerciale avec un g
+  - subtitle: >-
+      Découvrez les avantages d'une relation commerciale avec un Groupe qui a le
+      sens du détail.
     actions: []
     image_alt: lorem-ipsum
     media_position: left
