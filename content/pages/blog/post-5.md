@@ -18,7 +18,7 @@ thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/classic/post-5.png
 image_alt: Post 5 placeholder image
-image_position: right
+image_position: left
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
