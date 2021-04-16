@@ -193,7 +193,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-      - title: 3. Rigueur & réactivité sans faille
+      - title: 3. Rigueur & Réactivité exemplaire
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
