@@ -199,7 +199,6 @@ sections:
         image_has_padding: true
         content: |
           ###### 0,023€/Kg  |  +0,8% ▲
-        title: Soybean Oil Futures
       - image: images/classic/icon-2.svg
         image_alt: Contentful logo
         image_align: center
