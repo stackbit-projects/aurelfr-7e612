@@ -120,16 +120,7 @@ sections:
     align: center
     background_color: none
     enable_cards: false
-    actions:
-      - label: VOIR TOUS LES TÉMOIGNAGES
-        url: '#'
-        style: link
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     background_image_position: right bottom
     background_image_size: cover
     background_image_opacity: 40
