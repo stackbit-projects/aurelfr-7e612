@@ -293,7 +293,7 @@ sections:
     enable_cards: true
     show_recent: true
     recent_count: 6
-    show_image: false
+    show_image: true
     show_date: true
     show_categories: true
     show_author: true
