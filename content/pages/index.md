@@ -170,8 +170,12 @@ sections:
         content: |
           0,023€/Kg  |  +0,8% ▲
       - image: images/classic/icon-2.svg
-        image_alt: Netlify logo
+        image_alt: Contentful logo
         image_align: center
+        content_align: center
+        title_align: center
+        image_position: top
+        image_width: fifty
         image_has_padding: true
         content: |
           0,023€/Kg  |  +0,8% ▲
