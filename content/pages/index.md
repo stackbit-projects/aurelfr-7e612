@@ -112,16 +112,7 @@ sections:
     align: center
     background_color: tertiary
     enable_cards: false
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
