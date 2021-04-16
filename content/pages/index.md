@@ -285,7 +285,6 @@ sections:
     has_border: false
     background_color: primary
   - type: grid_section
-    title: Team Section
     subtitle: Grid Section Example
     actions: []
     grid_items:
