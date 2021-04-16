@@ -10,7 +10,8 @@ sections:
       1.  ###### [Aurel aide les agriculteurs algériens à valoriser leur
       production >](http://example.com)
 
-      2.  ###### [Les producteur de ble ukrainiens s'appuyassent sur Aurel >](http://example.com)
+      2.  ###### [Les producteur de ble ukrainiens s'appuyassent sur Aurel
+      >](http://example.com)
 
       3.  ###### Aurel s'implique au prés des producteurs de cacao en Argentine
       >
@@ -392,7 +393,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         actions:
-          - label: Learn More
+          - label: VOIR PLUS
             url: /style-guide
             style: primary
             has_icon: true
