@@ -364,7 +364,7 @@ sections:
     has_border: false
     background_color: primary
     background_image: images/corner_page.svg
-    background_image_size: cover
+    background_image_size: contain
     background_image_position: right bottom
   - actions: []
     image_alt: lorem-ipsum
