@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: primary
+    background_color: secondary
   - type: form_section
     content: >-
       ### Billing
