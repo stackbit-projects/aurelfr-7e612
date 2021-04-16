@@ -397,7 +397,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "LinkedIn",
+                "label": "LinkedIn test",
                 "url": "https://www.linkedin.com/",
                 "style": "primary",
                 "has_icon": true,
