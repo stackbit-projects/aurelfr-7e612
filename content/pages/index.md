@@ -115,6 +115,7 @@ sections:
     actions: []
     background_image: images/corner_page.svg
     background_image_position: right bottom
+    background_image_size: contain
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
