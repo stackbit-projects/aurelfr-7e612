@@ -110,7 +110,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: none
+    background_color: tertiary
     enable_cards: false
   - actions: []
     image_alt: lorem-ipsum
