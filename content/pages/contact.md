@@ -11,6 +11,20 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
+    content: >
+      \<div class="responsive-table">  \<table>      \<caption>Table with thead,
+      tfoot, and tbody\</caption>    \<thead>      \<tr>       
+      \<th>Produit\</th>        \<th>Mois\</th>        \<th>Dernier\</th>       
+      \<th>Change\</th>        \<th>Priorité\</th>       
+      \<th>Ouverture\</th>        \<th>Haux\</th>      \</tr>    \</thead>   
+      \<tbody>      \<tr>        \<td>Mais\</td>        \<td>Avril\</td>       
+      \<td>612'5\</td>        \<td>-3,6\</td>        \<td>594'0\</td>       
+      \<td>345'9\</td>        \<td>675'5\</td>      \</tr>      \<tr>       
+      \<td>Body content\</td>        \<td>Body content\</td>        \<td>Body
+      content\</td>        \<td>Body content\</td>      \</tr>    \</tbody>   
+      \<tfoot>      \<tr>        \<td>Footer content\</td>        \<td>Footer
+      content\</td>    \<td>Footer content\</td>    \<td>Footer
+      content\</td>      \</tr>    \</tfoot>  \</table>\</div>
   - type: grid_section
     grid_items:
       - title: Partnering and Sponsorships
