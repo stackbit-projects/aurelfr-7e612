@@ -77,7 +77,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    background_image: images/corner_page.svg
   - type: grid_section
     grid_items:
       - content: >
