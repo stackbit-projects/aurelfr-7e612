@@ -36,7 +36,7 @@ sections:
 
       ***
     actions:
-      - label: Actions à venir
+      - label: ACTIONS À VENIR
         url: /pricing
         style: link
         has_icon: true
