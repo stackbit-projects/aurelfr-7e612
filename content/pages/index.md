@@ -62,7 +62,7 @@ sections:
     background_image_size: contain
     background_image: images/Video.svg
   - content: |
-      #### ▐ Découvrez les témoignages de nos producteurs
+      #### ▎Découvrez les témoignages de nos producteurs
     actions: []
     image_alt: lorem-ipsum
     media_position: right
