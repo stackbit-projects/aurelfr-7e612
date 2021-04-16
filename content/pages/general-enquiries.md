@@ -57,7 +57,8 @@ sections:
       </tr>
     </tfoot>
   </table>
-</div>    
+</div>
+    
     content_align: left
     form_position: right
     form_width: fifty
