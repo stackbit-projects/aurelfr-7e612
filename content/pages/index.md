@@ -162,7 +162,7 @@ sections:
       - image: images/classic/icon-2.svg
         image_alt: Contentful logo
         image_align: center
-        content_align: center
+        content_align: right
         title_align: center
         image_position: top
         image_width: fifty
