@@ -155,6 +155,7 @@
 .style-classic {
 	@include media-breakpoint-up(md) {
 		.navbar__menu {
+            color: red; //new
 			a:not(.btn) {
 				&:after {
 					bottom: -2px;
