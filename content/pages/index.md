@@ -139,69 +139,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - type: features_section
-    features:
-      - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/about-1.jpg
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-        title: >-
-          ❯ Parce que vous pouvais vous atteindre à une qualité irréprochable de
-          nos produits, et ceux en tous temps et lieu.
-      - title: >-
-          ❯ Parce que nos prix, en plus d'être compétitifs, ils rémunère
-          correctement ceux qui à la sueur de leur front nous font manger.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/about-1.jpg
-        image_alt: Feature 2 placeholder image
-        media_position: right
-        media_width: fifty
-      - title: >-
-          ❯ Parce que notre rigueur, engagement et réactivité vous permettront
-          toujours d'entrevoir sereinement l'avenir de votre activité.
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/about-1.jpg
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: none
-    background_image_position: right bottom
-    background_image_size: contain
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
@@ -293,6 +230,69 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+  - type: features_section
+    features:
+      - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/about-1.jpg
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: fifty
+        title: >-
+          ❯ Parce que vous pouvais vous atteindre à une qualité irréprochable de
+          nos produits, et ceux en tous temps et lieu.
+      - title: >-
+          ❯ Parce que nos prix, en plus d'être compétitifs, ils rémunère
+          correctement ceux qui à la sueur de leur front nous font manger.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/about-1.jpg
+        image_alt: Feature 2 placeholder image
+        media_position: right
+        media_width: fifty
+      - title: >-
+          ❯ Parce que notre rigueur, engagement et réactivité vous permettront
+          toujours d'entrevoir sereinement l'avenir de votre activité.
+        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/about-1.jpg
+        image_alt: Feature 3 placeholder image
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
+    align: center
+    background_color: none
+    background_image_position: right bottom
+    background_image_size: contain
   - type: grid_section
     actions: []
     grid_items:
