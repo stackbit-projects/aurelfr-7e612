@@ -400,7 +400,7 @@
                 "label": "LinkedIn test",
                 "url": "https://www.linkedin.com/",
                 "style": "primary",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "linkedin",
                 "icon_position": "right",
                 "new_window": true
