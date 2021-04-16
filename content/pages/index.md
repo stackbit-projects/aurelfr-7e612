@@ -114,16 +114,7 @@ sections:
         title_align: left
         content_align: left
         image_has_padding: true
-        actions:
-          - label: VOIR TOUS LES TÉMOIGNAGES
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: right
         actions_width: auto
     grid_cols: three
