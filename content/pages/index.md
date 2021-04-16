@@ -168,7 +168,7 @@ sections:
         image_width: fifty
         image_has_padding: true
         content: |
-          ###### ZLK1 | <mark></mark> | 55.84 |  17,804 | +0.95(+1.73%) ▲
+          ###### ZLK1 | <mark>ZLK1</mark> | 55.84 |  17,804 | +0.95(+1.73%) ▲
         title: Soybean Oil Futures
       - image: images/classic/icon-2.svg
         image_alt: Contentful logo
