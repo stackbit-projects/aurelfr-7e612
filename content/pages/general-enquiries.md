@@ -54,7 +54,7 @@ sections:
     align_vert: top
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: secondary
   - type: hero_section
     title: This is the Hero
     subtitle: The optional subtitle
