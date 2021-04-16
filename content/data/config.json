@@ -402,7 +402,7 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "linkedin",
-                "icon_position": "center",
+                "icon_position": "right",
                 "new_window": true
             }
         ],
