@@ -420,7 +420,7 @@ sections:
     background_color: none
     background_image_position: right bottom
     background_image_size: cover
-    background_image: images/Video.svg
+    background_image: images/GreenBand.svg
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
