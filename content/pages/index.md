@@ -155,7 +155,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    title: '▎Pourqua '
+    title: '▎Pour qua '
   - type: features_section
     features:
       - title: The Big Title For the Feature
