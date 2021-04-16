@@ -192,7 +192,9 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
-      - title: ❯ Parce que notre rigueur et réactivité sont sans faille.
+      - title: >-
+          ❯ Parce que notre rigueur, engagement et réactivité vous permettront
+          toujours d'entrevoir l'avenir de votre business.
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
