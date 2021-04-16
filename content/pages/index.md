@@ -139,7 +139,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: 'Découvrez les avantages d''une relation commerciale avec '
+  - subtitle: Découvrez les avantages d'une relation commerciale avec un g
     actions: []
     image_alt: lorem-ipsum
     media_position: left
