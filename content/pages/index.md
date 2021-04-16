@@ -125,6 +125,7 @@ sections:
             no_follow: false
             type: action
         actions_align: right
+        actions_width: full-width
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
