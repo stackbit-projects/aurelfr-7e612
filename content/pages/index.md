@@ -123,7 +123,7 @@ sections:
     background_image_position: right bottom
     background_image_size: cover
     background_image_opacity: 40
-    has_border: true
+    has_border: false
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
