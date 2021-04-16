@@ -160,7 +160,7 @@ sections:
     title: ▎Pourquoi faire d'Aurel son fournisseur de matières premières ?
   - type: features_section
     features:
-      - title: The Big Title For the Feature
+      - title: 1. Qualité
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
