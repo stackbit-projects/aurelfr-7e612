@@ -399,7 +399,7 @@
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "linkedin",
                 "icon_position": "right",
