@@ -92,6 +92,16 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: true
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - content: >
           **Xi Liang,** *CTO, Studio*
 
