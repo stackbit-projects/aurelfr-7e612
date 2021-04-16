@@ -166,8 +166,7 @@
 			a:not(.btn):hover,
 			.is-active a {
 				&:after {
-                    width: 100%;
-                    color: red; //new
+					width: 100%;
 				}
 			}
 		}
