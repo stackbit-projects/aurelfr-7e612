@@ -113,6 +113,7 @@ sections:
     background_color: tertiary
     enable_cards: false
     actions: []
+    background_image: images/corner_page.svg
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
