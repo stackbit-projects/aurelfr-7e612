@@ -476,6 +476,7 @@ sections:
       - title_align: center
         image: images/classic/icon-3.svg
         image_position: top
+        image_align: center
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
