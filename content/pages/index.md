@@ -481,7 +481,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: 'TROUVER UN REPRÉSENTANT '
+            label: TROUVER UN REPRÉSENTANT
       - title_align: center
         image: images/clever-artichoke.svg
         image_position: top
