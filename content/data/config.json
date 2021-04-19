@@ -442,7 +442,7 @@
         "content": "&copy; Stackbit. All rights reserved.  site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now<",
         "links": [
             {
-                "label": "English   |   中國話的   ||   عربى   |   Français   |   Español   |   Português   |   Italiano",
+                "label": "English  ",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
