@@ -466,8 +466,7 @@ sections:
   - type: grid_section
     actions: []
     grid_items:
-      - subtitle: Co-Founder & CEO
-        title_align: center
+      - title_align: center
         image: images/classic/icon-1.svg
         image_position: top
       - title: Dianne Ameter
