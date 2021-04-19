@@ -483,7 +483,7 @@ sections:
             type: action
             label: 'Trouver un représentant commercial '
       - title_align: center
-        image: images/Certifications.svg
+        image: images/clever-artichoke.svg
         image_position: top
         image_align: center
     grid_cols: two
