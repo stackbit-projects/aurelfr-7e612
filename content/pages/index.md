@@ -474,6 +474,7 @@ sections:
           ###### Contacter un répresentant
         image_width: thirty-three
         title: Contacter un représentant
+        content_align: center
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
