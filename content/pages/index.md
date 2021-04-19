@@ -484,16 +484,7 @@ sections:
             label: TROUVER UN REPRÉSENTANT
       - title_align: left
         content_align: left
-        actions:
-          - url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            label: FORMULAIRE DE CONTACT
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
