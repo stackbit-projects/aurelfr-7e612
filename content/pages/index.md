@@ -472,8 +472,7 @@ sections:
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
-      - subtitle: Developer Advocate
-        title_align: center
+      - title_align: center
         image: images/classic/icon-3.svg
         image_position: top
       - title: Hilary Ouse
