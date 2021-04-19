@@ -467,7 +467,7 @@ sections:
     actions: []
     grid_items:
       - title_align: center
-        image_position: left
+        image_position: bottom
         image_align: center
         image_width: thirty-three
         content_align: center
