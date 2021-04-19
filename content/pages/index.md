@@ -486,8 +486,7 @@ sections:
         image: images/clever-artichoke.svg
         image_position: top
         image_align: center
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
