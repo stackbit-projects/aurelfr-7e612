@@ -466,18 +466,6 @@ sections:
   - type: grid_section
     actions: []
     grid_items:
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Fichier 2.svg
       - title_align: center
         image: images/clever-artichoke.svg
         image_position: top
