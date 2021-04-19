@@ -479,7 +479,7 @@ sections:
         image_align: center
         title: Découvrez nos produits
       - title_align: center
-        image: images/classic/icon-3.svg
+        image: images/iso27001aurelgroup-01.svg
         image_position: top
         image_align: center
         title: Découvrez nos services
