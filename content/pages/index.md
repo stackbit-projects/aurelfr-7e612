@@ -472,7 +472,7 @@ sections:
         image_align: center
         image_width: thirty-three
         content_align: center
-        image_has_padding: true
+        image_has_padding: false
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
