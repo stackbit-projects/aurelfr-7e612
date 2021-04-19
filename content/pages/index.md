@@ -473,8 +473,7 @@ sections:
         content_align: center
         image_has_padding: false
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: secondary
             has_icon: false
             icon: arrow-left
