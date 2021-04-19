@@ -485,7 +485,7 @@ sections:
     grid_cols: four
     align: center
     background_color: none
-    has_border: false
+    has_border: true
     padding_bottom: none
     padding_top: small
     background_image: images/Video.svg
