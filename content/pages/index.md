@@ -473,7 +473,6 @@ sections:
         content_align: center
         image_has_padding: false
         actions: []
-        image: images/Certifications.svg
       - title_align: center
         image: images/Certifications.svg
         image_position: top
