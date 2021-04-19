@@ -484,6 +484,7 @@ sections:
         image: images/classic/icon-3.svg
         image_position: top
         image_align: center
+        title: Découvrez nos services
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
