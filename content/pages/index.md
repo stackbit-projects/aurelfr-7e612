@@ -478,7 +478,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          ### **TROUVER UN REPRÉSENTANT**
+          ### ▎Cours des matières premières agricoles et actualité du marché
       - title_align: center
         image: images/clever-artichoke.svg
         image_position: top
