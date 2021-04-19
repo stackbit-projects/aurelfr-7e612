@@ -490,7 +490,7 @@ sections:
     align: center
     background_color: none
     has_border: false
-    padding_bottom: small
+    padding_bottom: none
     padding_top: none
 seo:
   title: Stackbit DIY Theme
