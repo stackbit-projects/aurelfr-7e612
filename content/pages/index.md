@@ -466,8 +466,7 @@ sections:
   - type: grid_section
     actions: []
     grid_items:
-      - title: TROUVER UN REPRESANTANT
-        subtitle: Co-Founder & CEO
+      - subtitle: Co-Founder & CEO
         title_align: center
         image: images/classic/icon-1.svg
         image_position: top
