@@ -469,8 +469,7 @@ sections:
       - title_align: center
         image: images/classic/icon-1.svg
         image_position: top
-      - subtitle: Software Engineer
-        title_align: center
+      - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
       - title: Hugh Saturation
