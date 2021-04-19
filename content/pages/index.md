@@ -466,14 +466,6 @@ sections:
   - type: grid_section
     actions: []
     grid_items:
-      - title_align: center
-        image_position: top
-        image_align: center
-        image_width: thirty-three
-        content_align: center
-        image_has_padding: false
-        actions: []
-        image: images/Fichier 2.svg
       - title_align: left
         content_align: left
         actions: []
