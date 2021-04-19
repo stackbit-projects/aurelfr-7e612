@@ -489,6 +489,7 @@ sections:
         image: images/classic/icon-2.svg
         image_position: top
         image_align: center
+        title: Demander un devis
     grid_cols: four
     align: center
     background_color: none
