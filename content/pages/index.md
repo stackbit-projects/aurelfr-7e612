@@ -487,7 +487,6 @@ sections:
         image_position: top
         image_align: center
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
