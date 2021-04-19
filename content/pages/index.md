@@ -482,7 +482,7 @@ sections:
         image: images/clever-artichoke.svg
         image_position: top
         image_align: center
-    grid_cols: three
+    grid_cols: two
     align: center
     background_color: tertiary
     has_border: false
