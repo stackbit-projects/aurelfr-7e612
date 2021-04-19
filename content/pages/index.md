@@ -488,7 +488,7 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: primary
+    background_color: none
     has_border: false
     padding_bottom: small
     padding_top: large
