@@ -473,7 +473,7 @@ sections:
         content: |
           ###### Contacter un répresentant
         image_width: thirty-three
-        title: Contacter un représentant
+        title: Trouver un représentant
         content_align: center
       - title_align: center
         image: images/classic/icon-2.svg
