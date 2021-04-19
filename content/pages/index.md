@@ -475,7 +475,7 @@ sections:
         actions: []
         image: images/Certifications.svg
       - title_align: center
-        image: images/clever-artichoke.svg
+        image: images/Certifications.svg
         image_position: top
         image_align: center
     grid_cols: two
