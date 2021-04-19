@@ -474,7 +474,7 @@ sections:
         content_align: center
         image_has_padding: false
       - title_align: center
-        image: images/Q-01.svg
+        image: images/Certifications.svg
         image_position: top
         image_align: center
     grid_cols: two
