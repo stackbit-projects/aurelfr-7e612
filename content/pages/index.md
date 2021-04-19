@@ -471,7 +471,6 @@ sections:
         image_position: top
         image_align: center
         image_width: thirty-three
-        title: Trouver un représentant
         content_align: center
       - title_align: center
         image: images/classic/icon-2.svg
