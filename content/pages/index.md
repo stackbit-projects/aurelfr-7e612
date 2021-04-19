@@ -482,6 +482,7 @@ sections:
             no_follow: false
             type: action
             label: 'Trouver un représentant commercial '
+        image: images/Fichier 2.svg
       - title_align: center
         image: images/clever-artichoke.svg
         image_position: top
