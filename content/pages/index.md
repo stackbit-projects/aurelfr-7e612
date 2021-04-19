@@ -475,8 +475,7 @@ sections:
       - title_align: center
         image: images/classic/icon-3.svg
         image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
+      - subtitle: Operations Manager
         title_align: center
         image: images/classic/icon-2.svg
         image_position: top
