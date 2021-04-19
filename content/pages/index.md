@@ -480,7 +480,7 @@ sections:
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
-        image_align: right
+        image_align: center
     grid_cols: four
     align: center
     background_color: none
