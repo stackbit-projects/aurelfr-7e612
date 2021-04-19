@@ -468,7 +468,7 @@ sections:
     grid_items:
       - title_align: center
         image: images/iso27001aurelgroup-01.svg
-        image_position: top
+        image_position: left
         image_align: center
         image_width: thirty-three
         content_align: center
