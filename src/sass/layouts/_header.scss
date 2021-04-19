@@ -142,7 +142,8 @@
 		a:not(.btn):hover,
 		.is-active a {
             text-decoration: none;
-            font-weight: 700;
+            font-weight: 700; // new
+            color:red;
 		}
 
 		.btn--primary,
