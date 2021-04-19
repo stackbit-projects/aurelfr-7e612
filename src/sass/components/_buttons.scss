@@ -41,7 +41,7 @@
 	background-color: $color-btn-alt-bg;
     color: $color-btn-alt-text;
     
-    &:hover,
+    &:hover, //new
 	&:focus,
 	&:active {
         background-color: #88B04B;
