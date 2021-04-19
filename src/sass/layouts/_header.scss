@@ -131,10 +131,10 @@
 
 		a:not(.btn) {
 			&:after {
-                
+                font
 				//background: $color-nav-link-border;
-				content: "";
-				position: absolute;
+				//content: "";
+				//position: absolute;
 				//transition: .3s ease-in-out;
 			}
 		}
