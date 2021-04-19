@@ -473,7 +473,7 @@ sections:
         content_align: center
         image_has_padding: false
         actions: []
-        image: images/clever-artichoke.svg
+        image: images/Certifications.svg
       - title_align: center
         image: images/clever-artichoke.svg
         image_position: top
