@@ -477,7 +477,7 @@ sections:
         image: images/Q-01.svg
         image_position: top
         image_align: center
-    grid_cols: four
+    grid_cols: two
     align: center
     background_color: tertiary
     has_border: false
