@@ -466,7 +466,7 @@ sections:
   - type: grid_section
     actions: []
     grid_items:
-      - title_align: center
+      - title_align: left
         image: images/classic/icon-1.svg
         image_position: left
         image_align: center
