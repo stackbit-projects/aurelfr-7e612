@@ -482,15 +482,6 @@ sections:
             no_follow: false
             type: action
             label: 'Trouver un représentant commercial '
-          - label: lorem-ipsum
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
       - title_align: center
         image: images/Certifications.svg
         image_position: top
