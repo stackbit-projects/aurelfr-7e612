@@ -489,8 +489,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: true
             icon: arrow-right
