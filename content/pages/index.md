@@ -472,16 +472,7 @@ sections:
         image_width: thirty-three
         content_align: center
         image_has_padding: false
-        actions:
-          - url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            label: TROUVER UN REPRÉSENTANT
+        actions: []
         image: images/Fichier 2.svg
       - title_align: left
         content_align: left
