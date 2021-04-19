@@ -482,10 +482,6 @@ sections:
             no_follow: false
             type: action
             label: TROUVER UN REPRÉSENTANT
-      - title_align: center
-        image: images/clever-artichoke.svg
-        image_position: top
-        image_align: center
       - title_align: left
         content_align: left
         actions:
@@ -506,6 +502,10 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title_align: center
+        image: images/clever-artichoke.svg
+        image_position: top
+        image_align: center
     grid_cols: three
     align: center
     background_color: tertiary
