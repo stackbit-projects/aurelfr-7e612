@@ -494,6 +494,7 @@ sections:
     has_border: false
     padding_bottom: none
     padding_top: small
+    enable_cards: true
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
