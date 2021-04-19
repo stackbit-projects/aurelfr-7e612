@@ -484,7 +484,7 @@ sections:
     has_border: false
     padding_bottom: none
     padding_top: small
-    background_image: images/Fichier 1.svg
+    background_image: images/Video.svg
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
