@@ -475,8 +475,7 @@ sections:
       - title_align: center
         image: images/classic/icon-3.svg
         image_position: top
-      - subtitle: Operations Manager
-        title_align: center
+      - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
     grid_cols: four
