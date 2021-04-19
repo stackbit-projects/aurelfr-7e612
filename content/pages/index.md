@@ -470,7 +470,7 @@ sections:
         image: images/iso27001aurelgroup-01.svg
         image_position: top
         image_align: center
-        image_width: twenty-five
+        image_width: thirty-three
         content_align: center
         image_has_padding: true
       - title_align: center
