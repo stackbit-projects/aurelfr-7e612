@@ -472,16 +472,7 @@ sections:
         image_width: thirty-three
         content_align: center
         image_has_padding: false
-        actions:
-          - url: '#'
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-            label: 'Trouver un représentant commercial '
+        actions: []
         image: images/Fichier 2.svg
       - title_align: center
         image: images/clever-artichoke.svg
