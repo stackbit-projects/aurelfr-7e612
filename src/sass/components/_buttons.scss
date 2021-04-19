@@ -21,7 +21,7 @@
     white-space: nowrap;
 
 	&:hover,
-	//&:focus,
+	&:focus,
 	&:active {
         background-color: #BFD833;
         color: #BFD833; //new
