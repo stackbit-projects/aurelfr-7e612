@@ -477,10 +477,6 @@ sections:
         image: images/Q-01.svg
         image_position: top
         image_align: center
-      - title_align: center
-        image: images/X-01.svg
-        image_position: top
-        image_align: center
     grid_cols: four
     align: center
     background_color: tertiary
