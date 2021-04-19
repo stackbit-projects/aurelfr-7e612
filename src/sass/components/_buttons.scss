@@ -39,7 +39,14 @@
 
 .btn--secondary {
 	background-color: $color-btn-alt-bg;
-	color: $color-btn-alt-text;
+    color: $color-btn-alt-text;
+    
+    &:hover,
+	&:focus,
+	&:active {
+        opacity: .85;
+        outline: 0;
+	}
 }
 
 #site-wrap {
