@@ -472,8 +472,7 @@ sections:
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
+      - subtitle: Developer Advocate
         title_align: center
         image: images/classic/icon-3.svg
         image_position: top
