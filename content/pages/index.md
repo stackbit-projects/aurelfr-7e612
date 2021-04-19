@@ -475,7 +475,7 @@ sections:
         actions:
           - url: '#'
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: youtube
             icon_position: right
             new_window: false
