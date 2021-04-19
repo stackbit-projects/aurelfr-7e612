@@ -482,6 +482,7 @@ sections:
             no_follow: false
             type: action
             label: TROUVER UN REPRÉSENTANT
+        image: images/Fichier 2.svg
       - title_align: left
         content_align: left
         actions: []
