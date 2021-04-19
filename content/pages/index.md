@@ -481,6 +481,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: 'Trouver un représentant commercial '
       - title_align: center
         image: images/Certifications.svg
         image_position: top
