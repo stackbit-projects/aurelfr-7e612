@@ -482,7 +482,7 @@ sections:
     align: center
     background_color: tertiary
     has_border: false
-    padding_bottom: small
+    padding_bottom: none
     padding_top: none
     enable_cards: false
 seo:
