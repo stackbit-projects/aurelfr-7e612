@@ -491,7 +491,7 @@ sections:
     background_color: none
     has_border: false
     padding_bottom: small
-    padding_top: large
+    padding_top: none
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
