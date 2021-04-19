@@ -482,7 +482,7 @@ sections:
         image_position: top
         image_align: center
       - title_align: center
-        image: images/iso27001aurelgroup-01.svg
+        image: images/bsi-01.svg
         image_position: top
         image_align: center
     grid_cols: four
