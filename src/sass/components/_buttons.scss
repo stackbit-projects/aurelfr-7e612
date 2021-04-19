@@ -42,10 +42,10 @@
     color: $color-btn-alt-text;
     
     &:hover, //new
-	&:focus,
-	&:active {
-        background-color: #88B04B;
-	}
+	&:focus, //new
+	&:active { //new
+        background-color: #88B04B; //new
+	} //new
 }
 
 #site-wrap {
