@@ -468,7 +468,7 @@ sections:
     grid_items:
       - title_align: center
         image: images/classic/icon-1.svg
-        image_position: top
+        image_position: left
         image_align: center
         content: |
           Contacter un répresentant
