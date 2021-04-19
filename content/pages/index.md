@@ -470,8 +470,6 @@ sections:
         image: images/classic/icon-1.svg
         image_position: top
         image_align: center
-        content: |
-          ###### Contacter un répresentant
         image_width: thirty-three
         title: Trouver un représentant
         content_align: center
