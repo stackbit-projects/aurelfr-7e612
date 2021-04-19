@@ -471,7 +471,7 @@ sections:
         image_position: left
         image_align: center
         content: |
-          Contacter un répresentant
+          ###### Contacter un répresentant
       - title_align: center
         image: images/classic/icon-2.svg
         image_position: top
