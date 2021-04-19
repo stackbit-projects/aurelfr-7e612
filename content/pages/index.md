@@ -477,8 +477,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: |
-          ### ▎Nous faisons notre maximum afin d'avoir une conduite exemplaire. 
+        content: >
+          ### ▎Nous faisons notre maximum, et nous continuerons de faire plus
+          que le maximum, afin de maintenir notre conduite exemplaire.
       - title_align: center
         image: images/clever-artichoke.svg
         image_position: top
