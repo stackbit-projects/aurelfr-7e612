@@ -153,7 +153,7 @@
 		.style-#{$style-suffix} {
 			&.palette-#{$color-suffix} {
 				.btn--primary {
-					background-color: #71CC51;//$value;
+					background-color: $value;
 				}
 			}
 		}
