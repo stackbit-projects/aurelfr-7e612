@@ -81,7 +81,7 @@
             {
                 "label": "Contacter un représentant ",
                 "url": "/contact",
-                "style": "primary"
+                "style": "secondary"
             }
         ],
         "has_anncmnt": true,
