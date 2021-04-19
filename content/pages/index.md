@@ -492,7 +492,7 @@ sections:
         title: Demander un devis
     grid_cols: four
     align: center
-    background_color: none
+    background_color: secondary
     has_border: false
     padding_bottom: none
     padding_top: small
