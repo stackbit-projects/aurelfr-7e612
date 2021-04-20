@@ -413,7 +413,7 @@ sections:
             icon_position: right
         image: images/about-1.jpg
         image_alt: Feature 2 placeholder image
-        media_position: right
+        media_position: left
         media_width: fourty
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
       - title: >-
