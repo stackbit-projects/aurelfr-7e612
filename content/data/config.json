@@ -297,7 +297,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Transport",
-                "url": "/terms-conditions#",
+                "url": "#",
                 "style": "link"
             },
             {
