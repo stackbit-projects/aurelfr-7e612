@@ -404,10 +404,6 @@ sections:
       - title: >-
           ❯ Parce que nos prix, en plus d'être compétitifs, ils rémunère
           correctement ceux qui à la sueur de leur front nous font manger.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
         actions:
           - label: LIRE PLUS
             url: '#'
