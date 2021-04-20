@@ -418,7 +418,7 @@ sections:
       - title: >-
           ❯ Parce que notre rigueur, engagement et réactivité vous permettront
           toujours d'entrevoir sereinement l'avenir de votre activité.
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
         actions:
           - label: LIRE PLUS
             url: '#'
