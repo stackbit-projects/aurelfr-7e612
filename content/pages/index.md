@@ -345,7 +345,7 @@ sections:
     enable_cards: true
     background_color: primary
     has_border: false
-    padding_top: small
+    padding_top: none
   - type: blog_feed_section
     actions:
       - label: VOIR PLUS D'ACTUALITÉS
