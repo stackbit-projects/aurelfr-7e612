@@ -80,7 +80,7 @@
             },
             {
                 "label": "Contacter un représentant ",
-                "url": "/contact",
+                "url": "/general-enquiries",
                 "style": "secondary"
             }
         ],
