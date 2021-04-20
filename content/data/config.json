@@ -75,7 +75,8 @@
             },
             {
                 "label": "Services",
-                "style": "link"
+                "style": "link",
+                "url": "#"
             },
             {
                 "label": "Contacter un représentant ",
