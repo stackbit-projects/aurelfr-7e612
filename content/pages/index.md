@@ -419,10 +419,6 @@ sections:
           ❯ Parce que notre rigueur, engagement et réactivité vous permettront
           toujours d'entrevoir sereinement l'avenir de votre activité.
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
         actions:
           - label: LIRE PLUS
             url: '#'
