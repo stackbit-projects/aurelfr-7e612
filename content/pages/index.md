@@ -433,7 +433,7 @@ sections:
           euismod lacinia.
         actions:
           - label: LIRE PLUS
-            url: /style-guide
+            url: '#'
             style: secondary
             has_icon: true
             icon: arrow-right
