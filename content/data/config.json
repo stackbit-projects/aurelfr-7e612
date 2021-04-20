@@ -99,7 +99,7 @@
         "primary_nav_links": [
             {
                 "label": "Histoire",
-                "url": "/about#",
+                "url": "#",
                 "style": "link"
             },
             {
