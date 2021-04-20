@@ -415,6 +415,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
+        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
       - title: >-
           ❯ Parce que notre rigueur, engagement et réactivité vous permettront
           toujours d'entrevoir sereinement l'avenir de votre activité.
