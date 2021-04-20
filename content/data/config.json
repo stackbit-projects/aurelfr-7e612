@@ -206,7 +206,7 @@
             },
             {
                 "label": "Café",
-                "url": "/blog/category/general",
+                "url": "/blog/category/general#",
                 "style": "link"
             },
             {
