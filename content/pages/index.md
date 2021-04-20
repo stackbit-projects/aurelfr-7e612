@@ -162,6 +162,7 @@ sections:
       #
 
       \* Bourse de Paris | 15/04/2021
+    title: ▎Cours des matières premières agricoles et actualité du marché
   - type: grid_section
     align: center
     grid_items:
