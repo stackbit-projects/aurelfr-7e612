@@ -387,7 +387,7 @@ sections:
   - title: ▎Cours des matières premières agricoles et actualité du marché
     actions: []
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: left
     media_width: fifty
     align: left
     padding_top: medium
