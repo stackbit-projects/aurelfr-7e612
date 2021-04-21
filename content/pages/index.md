@@ -255,7 +255,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ######  0.17 USD <mark>+2.95%</mark>
+          ######  6.1 USD <mark>+2.95%</mark>
         title: ▲ Maïs
         subtitle: '[CBOT] XD0002742050'
       - image: images/cool_Plan de travail 1.svg
