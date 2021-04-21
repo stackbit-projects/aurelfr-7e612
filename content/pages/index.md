@@ -244,7 +244,7 @@ sections:
         image_has_padding: false
         content: |
           ######  12.83 USD <mark>-0.16%</mark>
-        title: ▲ Riz
+        title: ▼ Riz
         subtitle: '[CBOT] XD0002742225'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
