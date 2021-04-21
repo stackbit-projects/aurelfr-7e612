@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "DIY",
-        "logo": "images/smart-onion.svg",
+        "logo": "images/pleasant-velociraptor.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": false,
         "primary_nav_links": [
