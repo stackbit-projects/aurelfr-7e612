@@ -450,7 +450,7 @@ sections:
         align: left
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: quaternary
     background_image_position: right bottom
     background_image_size: cover
     padding_top: small
