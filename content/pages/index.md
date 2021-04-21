@@ -430,7 +430,7 @@ sections:
         image: images/about-1.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: fourty
     feature_padding_vert: large
     align: center
     background_color: none
