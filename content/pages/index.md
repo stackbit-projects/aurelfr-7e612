@@ -452,7 +452,7 @@ sections:
     background_color: none
     background_image_position: right bottom
     background_image_size: cover
-    padding_top: medium
+    padding_top: small
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
