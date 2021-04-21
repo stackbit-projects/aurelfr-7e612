@@ -237,7 +237,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ###### <mark>G ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
+          ###### <mark>GDKK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
         title: Lait de classe IV
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
