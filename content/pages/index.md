@@ -243,7 +243,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ######  0.17 USD <mark>+2.95%</mark>
+          ######  1.83 USD <mark>+2.95%</mark>
         title: ▲ Riz
         subtitle: '[CBOT] XD0002742225'
       - image: images/cool_Plan de travail 1.svg
