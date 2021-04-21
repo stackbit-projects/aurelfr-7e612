@@ -304,7 +304,7 @@ sections:
         image_has_padding: false
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
-        title: '- ▲'
+        title: ▲
         subtitle: '[NYMEX] XD0002742274'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
