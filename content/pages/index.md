@@ -195,7 +195,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ######  6.7 USD <mark>+2.95%</mark>
+          ######  6.71 USD <mark>+2.95%</mark>
         title: Blé ▲
         subtitle: '[CBOT] XD0002742308'
       - image: images/cool_Plan de travail 1.svg
