@@ -184,7 +184,7 @@ sections:
         image_has_padding: false
         content: |
           ######  1.32 USD <mark>+2.00%</mark>
-        title: Café ▲
+        title: ▲ Café
         subtitle: '[NYMEX] XD0016549160'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
