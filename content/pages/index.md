@@ -60,6 +60,7 @@ sections:
     background_image_position: right center
     background_image_opacity: 0
     background_image_size: contain
+    background_image: images/Video.svg
   - content: |
       #### ▎Découvrez les témoignages de nos producteurs
     actions: []
