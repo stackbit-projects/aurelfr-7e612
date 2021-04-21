@@ -397,7 +397,7 @@ sections:
         image: images/about-1.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
         title: >-
           ❯ Parce que vous pouvais vous atteindre à une qualité irréprochable de
           nos produits, et ceux en tous temps et lieu.
