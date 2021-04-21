@@ -415,8 +415,8 @@ sections:
         media_position: right
         media_width: fourty
         title: >-
-          ❯ Parce que vous pouvais vous atteindre à une qualité irréprochable de
-          nos produits, et ceux en tous temps et lieu.
+          1. Parce que vous pouvais vous atteindre à une qualité irréprochable
+          de nos produits, et ceux en tous temps et lieu.
       - title: >-
           ❯ Parce que nos prix, en plus d'être compétitifs, ils rémunère
           correctement ceux qui à la sueur de leur front nous font manger.
