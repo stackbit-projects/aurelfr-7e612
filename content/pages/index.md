@@ -399,6 +399,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Pixel.png
   - type: features_section
     features:
       - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
