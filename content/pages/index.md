@@ -219,7 +219,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ######  3.16 USD <mark>+2.95%</mark>
+          ######  3.16 USD <mark>+1.95%</mark>
         title: ▲ Avoine
         subtitle: '[CBOT] XD0002742134'
       - image: images/cool_Plan de travail 1.svg
