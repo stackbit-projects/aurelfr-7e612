@@ -336,7 +336,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ###### <mark>ZLK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
+          ###### <mark>ISIN: XD0002742274 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
         title: Sucre
     grid_cols: four
     grid_gap_horiz: medium
