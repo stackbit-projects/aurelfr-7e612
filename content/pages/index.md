@@ -385,7 +385,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: ▎Cours des matières premières agricoles et actualité du marché
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
