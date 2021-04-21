@@ -337,7 +337,7 @@ sections:
         image_has_padding: false
         content: |
           ###### 0.17 USD <mark>+2.95%</mark>
-        title: Sucre
+        title: Sucre ▲
         subtitle: NYMEX | XD0002742274
     grid_cols: four
     grid_gap_horiz: medium
