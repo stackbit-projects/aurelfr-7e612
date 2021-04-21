@@ -197,7 +197,7 @@ sections:
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
         title: Blé ▲
-        subtitle: '[NYMEX] XD0002742274'
+        subtitle: '[NYMEX] XD0002742308'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: right
