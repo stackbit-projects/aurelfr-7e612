@@ -196,7 +196,7 @@ sections:
         image_has_padding: false
         content: |
           ######  6.71 USD <mark>+2.80%</mark>
-        title: Blé
+        title: ▲ Blé
         subtitle: '[CBOT] XD0002742308'
       - image: images/cool_red-01.svg
         image_alt: Contentful logo
