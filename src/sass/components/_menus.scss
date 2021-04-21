@@ -25,5 +25,6 @@
 	a:not(.btn):hover,
 	&.is-active a {
         text-decoration: underline;
+        text-underline-position: under;
 	}
 }
