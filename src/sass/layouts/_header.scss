@@ -132,7 +132,7 @@
 
 		a:not(.btn) {
 			&:after {
-				background: #cccccc; //$color-nav-link-border;
+				background: $color-nav-link-border;
 				content: "";
 				position: absolute;
 				transition: .3s ease-in-out;
