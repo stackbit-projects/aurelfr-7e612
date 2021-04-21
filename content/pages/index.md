@@ -446,7 +446,7 @@ sections:
         image: images/Fichier 1-80.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         align: left
     feature_padding_vert: large
     align: center
