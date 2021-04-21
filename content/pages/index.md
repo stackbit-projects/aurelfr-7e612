@@ -183,7 +183,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ######  1.32 USD <mark>+2.95%</mark>
+          ######  1.32 USD <mark>+2.%</mark>
         title: Café ▲
         subtitle: '[NYMEX] XD0016549160'
       - image: images/cool_Plan de travail 1.svg
