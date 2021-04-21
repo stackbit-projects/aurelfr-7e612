@@ -159,7 +159,6 @@
 	@include media-breakpoint-up(md) {
 		.navbar__menu {
 			a:not(.btn) {
-                text-transform: uppercase;
 				&:after {
                     bottom: -8px; //-2px;
 					height: 3px; //1px;
