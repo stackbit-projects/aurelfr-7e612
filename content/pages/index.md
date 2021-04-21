@@ -221,7 +221,7 @@ sections:
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
         title: ▲ Avoine
-        subtitle: '[NYMEX] XD0002742134'
+        subtitle: '[CBOT] XD0002742134'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: right
