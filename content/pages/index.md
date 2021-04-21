@@ -186,15 +186,16 @@ sections:
         title: Blé
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
-        image_align: center
+        image_align: right
         content_align: right
         title_align: right
         image_position: left
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ###### <mark>ZSN1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
-        title: Soja
+          ######  0.17 USD <mark>+2.95%</mark>
+        title: Sucre ▲
+        subtitle: '[NYMEX] XD0002742274'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: right
