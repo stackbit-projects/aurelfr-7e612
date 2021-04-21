@@ -407,7 +407,7 @@ sections:
           - label: "❯\_LIRE PLUS"
             url: '#'
             style: link
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
         image: images/about-1.jpg
