@@ -445,7 +445,7 @@ sections:
             icon_position: right
         image: images/392102850_EARTH_EMOJI_400px.gif
         image_alt: Feature 3 placeholder image
-        media_position: right
+        media_position: bottom
         media_width: fourty
         align: center
     feature_padding_vert: large
