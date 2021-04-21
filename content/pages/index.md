@@ -329,7 +329,7 @@ sections:
         title: Soybean Oil Futures
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
-        image_align: right
+        image_align: center
         content_align: right
         title_align: right
         image_position: left
