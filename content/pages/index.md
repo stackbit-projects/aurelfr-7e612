@@ -430,7 +430,7 @@ sections:
         image: images/Fichier 1-80.jpg
         image_alt: Feature 2 placeholder image
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
       - title: >-
           3. Parce que notre rigueur, engagement et réactivité vous permettront
