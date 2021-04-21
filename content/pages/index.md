@@ -420,7 +420,7 @@ sections:
     features:
       - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         actions:
-          - label: "❯\_LIRE PLUS"
+          - label: LIRE PLUS
             url: '#'
             style: link
             has_icon: true
