@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "DIY",
-        "logo": "images/Sans titre - 9_Plan de travail 1.svg",
+        "logo": "images/curious-spider.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": false,
         "primary_nav_links": [
