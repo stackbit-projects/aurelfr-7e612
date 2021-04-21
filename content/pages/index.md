@@ -334,7 +334,7 @@ sections:
         title_align: right
         image_position: left
         image_width: twenty-five
-        image_has_padding: true
+        image_has_padding: false
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
         title: Sucre ▲
