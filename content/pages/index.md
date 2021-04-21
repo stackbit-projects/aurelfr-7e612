@@ -220,7 +220,7 @@ sections:
         image_has_padding: false
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
-        title: Sucre ▲
+        title: ▲ XD0002742134
         subtitle: '[NYMEX] XD0002742274'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
