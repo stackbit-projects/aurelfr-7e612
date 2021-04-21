@@ -198,7 +198,7 @@ sections:
           ######  6.71 USD <mark>+2.80%</mark>
         title: Blé ▲
         subtitle: '[CBOT] XD0002742308'
-      - image: images/cool_Plan de travail 1.svg
+      - image: images/cool_red-01.svg
         image_alt: Contentful logo
         image_align: right
         content_align: right
