@@ -179,7 +179,7 @@
 
 //new
 .bg-tertiary {
-	background: $color-tertiary-sect-bg;
+	background: $color-quaternary-sect-bg;
 }
 
 @each $style in map-keys($theme-styles) {
