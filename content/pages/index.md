@@ -338,6 +338,7 @@ sections:
         content: |
           ###### <mark>XD0002742274 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
         title: Sucre
+        subtitle: 'ISIN: XD0002742274'
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
