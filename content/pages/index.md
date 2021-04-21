@@ -413,7 +413,7 @@ sections:
         image: images/Fichier 1-80.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: fourty
+        media_width: fifty
         title: >-
           1. Parce que vous pouvais vous atteindre à une qualité irréprochable
           de nos produits, et ceux en tous temps et lieu.
