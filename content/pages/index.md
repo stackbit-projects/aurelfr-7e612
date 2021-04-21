@@ -268,7 +268,7 @@ sections:
         image_has_padding: false
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
-        title: ▲ Huile de soja
+        title: ▼ Huile de soja
         subtitle: '[CBOT] XD0002742258'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
