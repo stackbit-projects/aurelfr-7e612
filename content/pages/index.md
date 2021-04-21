@@ -327,7 +327,7 @@ sections:
         content: |
           ###### <mark>ZLK1 ▲</mark> | 55.84 |  17,804 | +0.95(+1.73%)
         title: Soybean Oil Futures
-      - image: images/Hausse_Plan de travail 1.svg
+      - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: center
         content_align: right
