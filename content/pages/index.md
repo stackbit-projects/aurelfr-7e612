@@ -62,7 +62,7 @@ sections:
     background_image_opacity: 0
     background_image_size: contain
     background_image: images/Video.svg
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
   - content: |
       #### ▎Découvrez les témoignages de nos producteurs
     actions: []
