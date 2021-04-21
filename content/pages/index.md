@@ -158,7 +158,7 @@ sections:
     type: hero_section
     image: images/Pixel.png
     title: ▎Cours des matières premières agricoles et actualité du marché
-    subtitle: '* Dernière actualisation | 20/04/2021'
+    subtitle: Dernière actualisation | 20/04/2021
   - type: grid_section
     align: center
     grid_items:
