@@ -490,7 +490,7 @@ sections:
         image_align: center
     grid_cols: two
     align: center
-    background_color: tertiary
+    background_color: secondary
     has_border: false
     padding_bottom: none
     padding_top: small
