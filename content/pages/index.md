@@ -233,7 +233,7 @@ sections:
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
         title: ▲ Soja
-        subtitle: '[NYMEX] US12492A1079'
+        subtitle: '[CBOT] US12492A1079'
       - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: right
