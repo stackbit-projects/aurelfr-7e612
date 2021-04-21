@@ -24,6 +24,7 @@
 
 	a:not(.btn):hover,
 	&.is-active a {
-		text-decoration: underline;
+        text-decoration: underline;
+        padding-top:39px;
 	}
 }
