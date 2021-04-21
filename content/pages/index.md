@@ -234,7 +234,7 @@ sections:
           ######  8.43 USD <mark>+0.48%</mark>
         title: ▲ Soja
         subtitle: '[CBOT] US12492A1079'
-      - image: images/cool_Plan de travail 1.svg
+      - image: images/cool_red-01.svg
         image_alt: Contentful logo
         image_align: right
         content_align: right
