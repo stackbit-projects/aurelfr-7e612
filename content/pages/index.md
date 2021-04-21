@@ -433,7 +433,7 @@ sections:
         media_width: fourty
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
       - title: >-
-          ❯ Parce que notre rigueur, engagement et réactivité vous permettront
+          3. Parce que notre rigueur, engagement et réactivité vous permettront
           toujours d'entrevoir sereinement l'avenir de votre activité.
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
         actions:
