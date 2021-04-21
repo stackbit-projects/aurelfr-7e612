@@ -333,7 +333,7 @@ sections:
         content_align: right
         title_align: right
         image_position: left
-        image_width: twenty-five
+        image_width: thirty-three
         image_has_padding: false
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
