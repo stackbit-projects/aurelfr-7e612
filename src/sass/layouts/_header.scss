@@ -3,7 +3,7 @@
  */
 .site-header {
     border-bottom: 0px solid $color-header-border; // old 1px
-    //padding-top: 0px; //new
+    padding-top: 0px; //new
 }
 
 .navbar__logo,
@@ -14,7 +14,7 @@
 .navbar__logo {
 	img {
 		display: block;
-        height: 7rem; //max-height : 2.22222rem;
+        height: 8rem; //max-height : 2.22222rem;
         //padding-top: 20px ;
 	}
 }
