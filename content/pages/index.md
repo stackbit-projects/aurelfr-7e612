@@ -231,7 +231,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ######  0.17 USD <mark>+2.95%</mark>
+          ######  8.43 USD <mark>+2.95%</mark>
         title: ▲ Soja
         subtitle: '[CBOT] US12492A1079'
       - image: images/cool_Plan de travail 1.svg
