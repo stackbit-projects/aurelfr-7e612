@@ -267,7 +267,7 @@ sections:
         image_width: thirty-three
         image_has_padding: false
         content: |
-          ######  0.34 USD <mark>+2.95%</mark>
+          ######  0.34 USD <mark>+0.95%</mark>
         title: ▼ H. de soja
         subtitle: '[CBOT] XD0002742258'
       - image: images/cool_Plan de travail 1.svg
