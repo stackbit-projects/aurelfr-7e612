@@ -373,9 +373,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-        title: >-
-          1. Parce que vous pouvais vous atteindre à une qualité irréprochable
-          de nos produits en tous temps et lieu.
         video_embed_html: >-
           <iframe width="1080" height="1920"
           src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp;
