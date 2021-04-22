@@ -322,7 +322,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: V
+        label: 'Voir '
   - type: blog_feed_section
     actions:
       - label: VOIR LES ACTUALITÉS
