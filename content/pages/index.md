@@ -391,11 +391,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        video_embed_html: >-
-          <iframe width="1080" height="1920"
-          src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp;
-          controls=0&amp; showinfo=0&amp; autoplay=1&mute=1; loop=1"
-          frameborder="0" allowfullscreen></iframe>
         content: >
           ## 1. Parce que vous pouvais vous atteindre à une qualité
           irréprochable de nos produits en tous temps et lieu.
