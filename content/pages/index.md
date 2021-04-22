@@ -4,9 +4,6 @@ sections:
   - type: hero_section
     subtitle: Découvrez nos actions sur cette thématique
     content: >
-      ***
-
-
       1.  ###### [Aurel aide les agriculteurs algériens à valoriser leur
       production ](http://example.com)
 
@@ -32,9 +29,6 @@ sections:
 
       10. ###### En Inde, Aurel disposent des formations contre l'expotation des
       enfants
-
-
-      ***
     actions:
       - url: '#'
         style: link
