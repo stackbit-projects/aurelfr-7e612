@@ -370,22 +370,6 @@ sections:
         no_follow: false
         type: action
         label: VOIR PLUS
-  - title: ▎Actualités
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: left
-    media_width: fifty
-    align: right
-    padding_top: medium
-    padding_bottom: none
-    has_border: false
-    background_color: quaternary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/Pixel.png
   - type: blog_feed_section
     actions:
       - label: VOIR LES ACTUALITÉS
@@ -505,6 +489,22 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - title: ▎Actualités
+    actions: []
+    image_alt: lorem-ipsum
+    media_position: left
+    media_width: fifty
+    align: right
+    padding_top: medium
+    padding_bottom: none
+    has_border: false
+    background_color: quaternary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/Pixel.png
   - type: grid_section
     actions: []
     grid_items:
