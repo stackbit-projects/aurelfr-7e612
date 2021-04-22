@@ -55,7 +55,7 @@ sections:
       responsabilité éthique
     background_image_position: right center
     background_image_opacity: 0
-    background_image_size: contain
+    background_image_size: auto
     background_image: images/Green2_Plan de travail 1.svg
     background_image_repeat: no-repeat
     video_embed_html: >-
