@@ -271,8 +271,7 @@ sections:
     has_border: false
     padding_top: none
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: true
         icon: arrow-right
