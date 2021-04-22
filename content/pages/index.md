@@ -58,7 +58,6 @@ sections:
       src="https://www.youtube.com/embed/66gxb2QxlGk" rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
-    background_image: images/greengoofd_Plan de travail 1.svg
   - content: |
       #### ▎Découvrez les témoignages de nos clients
     actions: []
