@@ -36,8 +36,7 @@ sections:
 
       ***
     actions:
-      - label: À VENIR
-        url: '#'
+      - url: '#'
         style: link
         has_icon: true
         icon: arrow-right
