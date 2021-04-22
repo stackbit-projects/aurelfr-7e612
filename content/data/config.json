@@ -70,8 +70,7 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action",
-                "label": "INGRÉDIENTS & PRODUITS"
+                "type": "action"
             },
             {
                 "label": "SERVICES INTÉGRÉS",
