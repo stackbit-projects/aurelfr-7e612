@@ -64,7 +64,7 @@ sections:
       allowfullscreen></iframe>
     background_image: images/Green3_Plan de travail 1.svg
   - content: |
-      #### ▎Certifications
+      #### ▎Découvrez les témoignages de nos clients
     actions: []
     image_alt: lorem-ipsum
     media_position: right
