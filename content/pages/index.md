@@ -291,7 +291,7 @@ sections:
   - title: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: left
     media_width: fifty
     align: left
     padding_top: medium
