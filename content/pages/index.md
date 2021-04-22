@@ -370,7 +370,7 @@ sections:
         no_follow: false
         type: action
         label: VOIR PLUS
-  - title: '▎Actualités du marché des produits agricoles '
+  - title: ▎Actualités
     actions: []
     image_alt: lorem-ipsum
     media_position: left
