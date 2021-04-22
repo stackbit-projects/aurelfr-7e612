@@ -66,7 +66,7 @@ sections:
     media_position: right
     media_width: fourty
     align: left
-    padding_top: none
+    padding_top: large
     padding_bottom: none
     has_border: false
     background_color: primary
