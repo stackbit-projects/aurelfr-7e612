@@ -370,7 +370,7 @@ sections:
             icon_position: right
         image: images/Fichier 1-80.jpg
         image_alt: Feature 1 placeholder image
-        media_position: left
+        media_position: right
         media_width: fifty
         video_embed_html: >-
           <iframe width="1080" height="1920"
