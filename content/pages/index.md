@@ -395,6 +395,11 @@ sections:
         media_position: right
         media_width: thirty-three
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
+        video_embed_html: >-
+          <iframe width="1080" height="1920"
+          src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp;
+          controls=0&amp; showinfo=0&amp; autoplay=1&mute=1; loop=1"
+          frameborder="0" allowfullscreen></iframe>
       - title: >-
           3. Parce que notre rigueur, engagement et réactivité vous permettront
           toujours d'entrevoir sereinement l'avenir de votre activité.
