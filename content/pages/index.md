@@ -257,7 +257,7 @@ sections:
           ######  6.14 USD <mark>+3.63%</mark>
         title: ▲ Maïs
         subtitle: '[CBOT] XD0002742050'
-        - image: images/cool_Plan de travail 1.svg
+      - image: images/cool_Plan de travail 1.svg
         image_alt: Contentful logo
         image_align: right
         content_align: right
