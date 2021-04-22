@@ -381,6 +381,9 @@ sections:
           src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp;
           controls=0&amp; showinfo=0&amp; autoplay=1&mute=1; loop=1"
           frameborder="0" allowfullscreen></iframe>
+        content: >
+          # 2. Parce que nos prix, en plus d'être compétitifs, ils rémunère à
+          leur juste valeur ceux qui les produisent.
       - title: >-
           2. Parce que nos prix, en plus d'être compétitifs, ils rémunère à leur
           juste valeur ceux qui les produisent.
