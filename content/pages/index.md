@@ -277,7 +277,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Voir tout
+        label: Voir tout les cours
   - type: blog_feed_section
     actions:
       - label: VOIR PLUS D'ACTUALITÉS
