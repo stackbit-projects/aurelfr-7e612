@@ -257,6 +257,7 @@ sections:
           ######  6.14 USD <mark>+3.63%</mark>
         title: ▲ Maïs
         subtitle: '[CBOT] XD0002742050'
+        
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
