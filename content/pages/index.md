@@ -280,7 +280,7 @@ sections:
         label: Voir les cours
   - type: blog_feed_section
     actions:
-      - label: VOIR PLUS D'ACTUALITÉS
+      - label: VOIR LACTUALITÉS
         url: /blog
         style: link
         icon_position: right
