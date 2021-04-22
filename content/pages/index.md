@@ -131,7 +131,7 @@ sections:
     background_image_opacity: 40
     has_border: false
     padding_bottom: small
-    padding_top: small
+    padding_top: none
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
