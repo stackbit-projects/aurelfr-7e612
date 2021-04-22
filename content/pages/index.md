@@ -63,8 +63,17 @@ sections:
       src="https://www.youtube.com/embed/5723ieP5VAQ rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
-  - content: |
+  - content: >
       #### ▎Certifications
+
+
+      Nous portons une attention particulière à travailler avec des partenaires
+      fiables, partageant les mêmes valeurs en terme d’éthique et de qualité.
+      Pour assurer ses valeurs, notre société met une importance clé à la
+      certification de nos processus depuis de nombreuses années. Pour répondre
+      à la demande croissante de nos clients et ainsi satisfaire les
+      consommateurs à travers le monde, nous avons récemment acquis les
+      certifications Halal et Casher.
     actions: []
     image_alt: lorem-ipsum
     media_position: right
