@@ -277,7 +277,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: V
+        label: Voir tout
   - type: blog_feed_section
     actions:
       - label: VOIR PLUS D'ACTUALITÉS
