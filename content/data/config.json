@@ -16,7 +16,8 @@
                 "label": "Features",
                 "url": "/features",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "linkedin"
             }
         ],
         "has_secondary_nav": true,
