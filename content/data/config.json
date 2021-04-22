@@ -75,7 +75,8 @@
             },
             {
                 "style": "link",
-                "url": "/style-guide"
+                "url": "/style-guide",
+                "label": "SOLUTIONS INTÉGRÉES"
             },
             {
                 "url": "/general-enquiries",
