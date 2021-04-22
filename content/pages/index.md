@@ -288,7 +288,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: '▎Actualités de  '
+  - title: '▎Actualités du marché des produits agricoles '
     actions: []
     image_alt: lorem-ipsum
     media_position: left
