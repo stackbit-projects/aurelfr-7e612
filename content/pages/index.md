@@ -464,7 +464,7 @@ sections:
         image_align: center
     grid_cols: two
     align: center
-    background_color: quaternary
+    background_color: tertiary
     has_border: false
     padding_bottom: none
     padding_top: small
