@@ -343,7 +343,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: ▎Pour qua faire d'Aurel son fournisseur de matières premières ?
+  - title: ▎3 Raisons pour qua faire d'Aurel son fournisseur
     actions: []
     image_alt: lorem-ipsum
     media_position: left
