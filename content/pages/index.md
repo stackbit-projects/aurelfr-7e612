@@ -156,7 +156,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    title: ▎Le cours des matières premières agricoles e
+    title: ▎Le cours des matières premières agricoles et les dernières actualités
     subtitle: '*Dernière actualisation des données : 20/04/2021'
   - type: grid_section
     align: center
