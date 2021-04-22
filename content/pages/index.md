@@ -307,18 +307,6 @@ sections:
         image_has_padding: false
         content: |
           ######  0.17 USD <mark>+2.95%</mark>
-        title: ▲ Colza
-        subtitle: '[NYMEX] XD0002742274'
-      - image: images/cool_Plan de travail 1.svg
-        image_alt: Contentful logo
-        image_align: right
-        content_align: right
-        title_align: right
-        image_position: left
-        image_width: thirty-three
-        image_has_padding: false
-        content: |
-          ######  0.17 USD <mark>+2.95%</mark>
         title: ▲
         subtitle: '[NYMEX] XD0002742274'
     grid_cols: four
