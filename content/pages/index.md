@@ -261,7 +261,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
-    background_color: quaternary
+    background_color: primary
     has_border: false
     padding_top: none
     actions:
