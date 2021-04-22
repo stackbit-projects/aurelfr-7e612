@@ -59,7 +59,8 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action",
+                "label": "VALEURS ET ENGAGEMENTS"
             },
             {
                 "label": "MATIÈRES PREMIÈRES",
