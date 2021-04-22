@@ -75,7 +75,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    background_image: images/cool2_Plan de travail 1.svg
+    background_image: images/cool3_Plan de travail 1.svg
   - type: grid_section
     grid_items:
       - content: >
