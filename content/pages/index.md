@@ -408,7 +408,7 @@ sections:
     align: center
     background_color: none
     background_image_position: right bottom
-    background_image_size: contain
+    background_image_size: auto
     padding_top: none
     background_image: images/zzzz-01.svg
   - actions: []
