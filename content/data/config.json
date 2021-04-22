@@ -81,7 +81,8 @@
             {
                 "label": "COMMANDER",
                 "url": "/general-enquiries",
-                "style": "secondary"
+                "style": "secondary",
+                "has_icon": true
             }
         ],
         "has_anncmnt": true,
