@@ -129,20 +129,6 @@ sections:
     padding_top: medium
   - actions: []
     image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: small
-    padding_bottom: small
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-  - actions: []
-    image_alt: lorem-ipsum
     media_position: left
     media_width: fifty
     align: left
@@ -397,6 +383,20 @@ sections:
     background_image_position: right bottom
     background_image_size: cover
     padding_top: small
+  - actions: []
+    image_alt: lorem-ipsum
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: small
+    padding_bottom: small
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - type: grid_section
     actions: []
     grid_items:
