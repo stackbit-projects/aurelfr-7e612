@@ -44,7 +44,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: small
-    padding_bottom: small
+    padding_bottom: none
     background_color: none
     title: >-
       Matières premières agricoles durables : Plus q'un défis, une
