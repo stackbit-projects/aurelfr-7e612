@@ -361,8 +361,7 @@ sections:
     image: images/Pixel.png
   - type: features_section
     features:
-      - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        actions:
+      - actions:
           - label: En savoir plus
             url: '#'
             style: link
