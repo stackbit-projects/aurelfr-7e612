@@ -410,6 +410,7 @@ sections:
     background_image_position: right bottom
     background_image_size: cover
     padding_top: none
+    background_image: images/zzzz-01.svg
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
