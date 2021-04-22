@@ -274,8 +274,7 @@ sections:
         no_follow: false
         type: action
         label: Voir les cours
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
