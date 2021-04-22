@@ -378,6 +378,9 @@ sections:
           controls=0&amp; showinfo=0&amp; autoplay=1&mute=1; loop=1"
           frameborder="0" allowfullscreen></iframe>
         content: >
+          # ▎3 Raisons pour qua faire d'Aurel son fournisseur
+
+
           ## 1. Parce que vous pouvais vous atteindre à une qualité
           irréprochable de nos produits en tous temps et lieu.
 
