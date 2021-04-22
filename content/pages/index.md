@@ -56,7 +56,7 @@ sections:
     background_image_position: right bottom
     background_image_opacity: 0
     background_image_size: contain
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     video_embed_html: >-
       <iframe width="600" height="1010"
       src="https://www.youtube.com/embed/5723ieP5VAQ rel=0&amp; controls=0&amp;
