@@ -408,26 +408,6 @@ sections:
           src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp;
           controls=0&amp; showinfo=0&amp; autoplay=1&mute=1; loop=1"
           frameborder="0" allowfullscreen></iframe>
-      - title: >-
-          3. Parce que notre rigueur, engagement et réactivité vous permettront
-          toujours d'entrevoir sereinement l'avenir de votre activité.
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
-        actions:
-          - label: En savoir plus
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image_alt: Feature 3 placeholder image
-        media_position: left
-        media_width: fourty
-        align: left
-        video_embed_html: >-
-          <iframe width="1080" height="1920"
-          src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp;
-          controls=0&amp; showinfo=0&amp; autoplay=1&mute=1; loop=1"
-          frameborder="0" allowfullscreen></iframe>
     feature_padding_vert: large
     align: center
     background_color: none
