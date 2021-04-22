@@ -273,7 +273,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Voir les cours
+        label: VOIR PLUS
   - title: '▎Actualités du marché des produits agricoles '
     actions: []
     image_alt: lorem-ipsum
