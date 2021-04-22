@@ -37,7 +37,6 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-        label: VOIR LES ACTIONS À VENIR
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: right
