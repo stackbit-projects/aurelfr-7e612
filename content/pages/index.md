@@ -393,7 +393,7 @@ sections:
             icon_position: right
         image_alt: Feature 2 placeholder image
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
         video_embed_html: >-
           <iframe width="1080" height="1920"
