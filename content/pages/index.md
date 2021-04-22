@@ -354,7 +354,7 @@ sections:
           2. Parce que nos prix, en plus d'être compétitifs, ils rémunère
           correctement ceux qui à la sueur de leur front nous font manger.
         actions:
-          - label: LIRE PLUS
+          - label: En savoir plus
             url: '#'
             style: link
             has_icon: true
