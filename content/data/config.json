@@ -82,7 +82,8 @@
                 "label": "COMMANDER",
                 "url": "/general-enquiries",
                 "style": "secondary",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "arrow-right"
             }
         ],
         "has_anncmnt": true,
