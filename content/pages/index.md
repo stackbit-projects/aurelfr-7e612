@@ -65,8 +65,6 @@ sections:
     background_image: images/Green3_Plan de travail 1.svg
   - content: |
       #### ▎Découvrez les témoignages de nos clients
-
-      bla bhazldgakzgfkagf rzkjrgakzgfa. af gfdiahzf 
     actions: []
     image_alt: lorem-ipsum
     media_position: right
