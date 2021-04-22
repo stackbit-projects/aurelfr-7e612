@@ -337,7 +337,7 @@ sections:
     features:
       - subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         actions:
-          - label: LIRE PLUS
+          - label: En savoir plus
             url: '#'
             style: link
             has_icon: true
