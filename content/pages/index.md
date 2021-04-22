@@ -465,7 +465,7 @@ sections:
     grid_cols: two
     align: center
     background_color: tertiary
-    has_border: true
+    has_border: false
     padding_bottom: none
     padding_top: small
     enable_cards: false
