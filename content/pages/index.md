@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Et comme la planète n'attends pas. Nous non plus.
+    subtitle: La planète n'attends pas. Nous non plus.
     content: >
       ***
 
