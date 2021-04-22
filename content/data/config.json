@@ -71,7 +71,7 @@
     "footer": {
         "logo": "images/telechargement.jpg",
         "logo_alt": "DIY logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_title": "NOTRE GROUP",
         "primary_nav_links": [
             {
