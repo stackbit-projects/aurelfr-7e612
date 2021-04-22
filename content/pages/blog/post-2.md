@@ -14,7 +14,7 @@ tags:
 excerpt: >-
   Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
   sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
-thumb_image: images/Fichier 1.svg
+thumb_image: images/about-5.jpg
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
 image_alt: Post 2 placeholder image
