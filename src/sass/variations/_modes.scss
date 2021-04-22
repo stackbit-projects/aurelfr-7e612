@@ -99,7 +99,20 @@
 			color: $color-tertiary-sect-btn-text;
 		}
     }
-    
+    //New 
+    .bg-tertiary {
+		color: $color-tertiary-sect-text;
+
+		pre,
+		th {
+			background: 0;
+		}
+
+		.btn--primary {
+			background-color: $color-tertiary-sect-btn-bg;
+			color: $color-tertiary-sect-btn-text;
+		}
+	}
 
 	.bg-primary,
 	.bg-secondary {
