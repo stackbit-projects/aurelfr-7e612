@@ -384,6 +384,11 @@ sections:
         content: >
           ## 2. Parce que nos prix, en plus d'être compétitifs, ils rémunère à
           leur juste valeur ceux qui les produisent.
+
+
+          ## 3. Parce que notre rigueur, engagement et réactivité vous
+          permettront toujours d'entrevoir sereinement l'avenir de votre
+          activité.
       - title: >-
           2. Parce que nos prix, en plus d'être compétitifs, ils rémunère à leur
           juste valeur ceux qui les produisent.
