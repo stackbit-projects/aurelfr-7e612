@@ -279,6 +279,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: VOIR PLUS
   - type: blog_feed_section
     actions:
       - label: VOIR PLUS D'ACTUALITÉS
