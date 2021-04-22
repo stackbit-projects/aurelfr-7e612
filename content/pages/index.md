@@ -55,7 +55,7 @@ sections:
     background_image_repeat: repeat
     video_embed_html: >-
       <iframe width="600" height="1010"
-      src=https://www.youtube.com/embed/66gxb2QxlGk" rel=0&amp; controls=0&amp;
+      src=https://www.youtube.com/embed/66gxb2QxlGk rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
   - content: |
