@@ -62,7 +62,7 @@ sections:
       src="https://www.youtube.com/embed/5723ieP5VAQ rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
-    background_image: images/Green3_Plan de travail 1.svg
+    background_image: images/Geen4_Plan de travail 1.svg
   - content: |
       #### ▎Certifications
     actions: []
