@@ -54,7 +54,7 @@ sections:
     background_image_size: contain
     background_image_repeat: repeat
     video_embed_html: >-
-      <iframe width="600" height="1920"
+      <iframe width="6" height="1920"
       src=https://www.youtube.com/embed/K2V5tjE8bxM rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
