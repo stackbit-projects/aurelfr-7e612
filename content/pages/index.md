@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Découvrez nos actions sur cette thématique
+    subtitle: 'Et comme '
     content: >
       ***
 
