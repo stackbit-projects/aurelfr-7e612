@@ -37,7 +37,7 @@ sections:
         has_icon: true
         icon: arrow-right
         icon_position: right
-        label: Voir tou
+        label: Voir les act
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: right
