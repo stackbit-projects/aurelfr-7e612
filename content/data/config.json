@@ -83,7 +83,8 @@
                 "url": "/general-enquiries",
                 "style": "secondary",
                 "has_icon": true,
-                "icon": "arrow-right"
+                "icon": "arrow-right",
+                "icon_position": "right"
             }
         ],
         "has_anncmnt": true,
