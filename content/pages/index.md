@@ -403,6 +403,7 @@ sections:
           ## 3. Parce que notre rigueur, engagement et réactivité vous
           permettront toujours d'entrevoir sereinement l'avenir de votre
           activité.
+        align: center
     feature_padding_vert: large
     align: center
     background_color: none
