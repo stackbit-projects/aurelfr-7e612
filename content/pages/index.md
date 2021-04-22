@@ -360,7 +360,7 @@ sections:
           de nos produits en tous temps et lieu.
       - title: >-
           2. Parce que nos prix, en plus d'être compétitifs, ils rémunère
-          correctement ceux qui à la sueur de leur front nous font manger.
+          correctement ceux qui à la sueur de leur front les produisent.
         actions:
           - label: En savoir plus
             url: '#'
