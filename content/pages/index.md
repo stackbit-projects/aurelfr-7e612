@@ -359,8 +359,8 @@ sections:
           1. Parce que vous pouvais vous atteindre à une qualité irréprochable
           de nos produits en tous temps et lieu.
       - title: >-
-          2. Parce que nos prix, en plus d'être compétitifs, ils rémunère
-          correctement ceux qui à la sueur de leur front les produisent.
+          2. Parce que nos prix, en plus d'être compétitifs, ils rémunère à leur
+          juste valeur ceux qui les produisent.
         actions:
           - label: En savoir plus
             url: '#'
