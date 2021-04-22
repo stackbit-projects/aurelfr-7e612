@@ -371,7 +371,7 @@ sections:
             icon_position: right
         image: images/Fichier 1-80.jpg
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: thirty-three
         title: >-
           1. Parce que vous pouvais vous atteindre à une qualité irréprochable
