@@ -75,7 +75,8 @@
             },
             {
                 "style": "link",
-                "url": "/style-guide"
+                "url": "/style-guide",
+                "label": "SERVICES INTEGRE"
             },
             {
                 "url": "/general-enquiries",
