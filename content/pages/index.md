@@ -414,7 +414,7 @@ sections:
         image: images/Fichier 1-80.jpg
         image_alt: Feature 3 placeholder image
         media_position: left
-        media_width: thirty-three
+        media_width: fourty
         align: left
     feature_padding_vert: large
     align: center
