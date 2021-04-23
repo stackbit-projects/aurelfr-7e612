@@ -221,7 +221,7 @@
 			border-top-width: 2px;
 		}
 	}
-}
+},
 
 @each $style in map-keys($theme-styles) {
 	$style-suffix: "#{$style}";
