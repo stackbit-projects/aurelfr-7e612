@@ -223,10 +223,6 @@
 	}
 }
 
-
-
-
-
 @each $style in map-keys($theme-styles) {
 	$style-suffix: "#{$style}";
 	$colors: map-deep-get($theme-styles, $style, "colors");
