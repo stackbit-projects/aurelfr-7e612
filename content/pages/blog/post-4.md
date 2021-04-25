@@ -1,7 +1,7 @@
 ---
 title: >-
-  La Commission européenne présente son plan d'action pour développer
-  l'agriculture biologique
+  Hausses du blé, du soja et de l'huile de palme : est-ce le printemps des pays
+  émergents ?
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
