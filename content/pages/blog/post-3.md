@@ -1,5 +1,5 @@
 ---
-title: Le cours du maïs au plus haut depuis juillet 2013
+title: Plus haut historique pour le Colza
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
