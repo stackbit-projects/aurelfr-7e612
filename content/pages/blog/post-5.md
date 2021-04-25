@@ -1,5 +1,5 @@
 ---
-title: 'Dans les vignobles français, des "bougies" contre le gel'
+title: La demande de Cognac en Chine alimente l'optimisme des producteurs français
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
