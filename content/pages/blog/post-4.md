@@ -1,5 +1,7 @@
 ---
-title: 'Inde: la jeune aux nattes brunes qui se bat pour les forêts de Mollem'
+title: >-
+  La Commission européenne présente son plan d'action pour développer
+  l'agriculture biologique
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
