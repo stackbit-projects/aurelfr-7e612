@@ -48,7 +48,7 @@ sections:
     background_color: none
     title: >-
       Votre partenaire international pour la fourniture de matières premières
-      agricoles durables
+      agricoles durables, et bien plus.
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
