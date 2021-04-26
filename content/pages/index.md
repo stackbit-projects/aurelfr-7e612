@@ -453,8 +453,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: |
-          ### ▎Nos certifications 
+        content: >
+          ### ▎Nous faisons notre maximum, et nous continuerons à faire
+          davantage afin de maintenir une conduite exemplaire.
       - title_align: center
         image: images/panoramic-pine.svg
         image_position: top
