@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Découvrez pourquoi plus de 1000 industriels ont choisi le Groupe Aurel
+    subtitle: Découvrez pourquoi plus de 200 industriels ont choisi le Groupe Aurel.
     content: >
       ***
 
