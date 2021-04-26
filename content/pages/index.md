@@ -6,6 +6,8 @@ sections:
     content: >
       ***
 
+      Sélectionnez ce sur quoi vous voulez travailler :
+
 
       ***
 
