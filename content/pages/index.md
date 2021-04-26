@@ -79,11 +79,11 @@ sections:
   - type: grid_section
     grid_items:
       - content: >
-          **Yurie Murad,** *CEO, Studio*
+          **Geneve,** *CEO, Studio*
 
 
           > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit. 
+          ipsum dolor sit amet, consectetur adipiscing elit.
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
