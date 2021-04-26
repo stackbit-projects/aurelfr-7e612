@@ -441,9 +441,6 @@ sections:
     type: hero_section
   - actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     media_position: right
     media_width: fifty
     align: left
