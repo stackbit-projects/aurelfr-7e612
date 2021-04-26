@@ -54,6 +54,17 @@
                 "icon": "arrow-right",
                 "icon_position": "right",
                 "label": "CONTACTEZ NOUS"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_anncmnt": true,
