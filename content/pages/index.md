@@ -456,7 +456,7 @@ sections:
         content: |
           ### ▎Nos certifications
 
-          Nous portont une attention particuliere ...
+          ###### Nous portont une attention particuliere ...
       - title_align: center
         image: images/panoramic-pine.svg
         image_position: top
