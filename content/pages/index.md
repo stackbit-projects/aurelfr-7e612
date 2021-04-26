@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      Matières premières agricoles, ingrédients alimentaires et bien plus dans
-      un seul endroit.
+      MDécouvrez pourquoi plus de 100 000 équipes ont choisi le Work OS
+      monday.com.
     content: >
       ***
 
