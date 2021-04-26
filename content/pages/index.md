@@ -161,6 +161,31 @@ sections:
     image: images/Pixel.png
     title: ▎Cours des matières premières agricoles & Dernières actualités
     subtitle: '*Actualisation des données le : 20/04/2021'
+  - type: blog_feed_section
+    actions:
+      - label: VOIR LES ACTUALITÉS
+        url: /blog
+        style: link
+        icon_position: right
+        has_icon: true
+        icon: arrow-right
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_image: true
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: false
+    align: center
+    padding_top: none
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_size: cover
+    background_image_position: right bottom
+    background_image_opacity: 5
   - type: grid_section
     align: center
     grid_items:
@@ -325,31 +350,6 @@ sections:
         no_follow: false
         type: action
         label: Voir les cours
-  - type: blog_feed_section
-    actions:
-      - label: VOIR LES ACTUALITÉS
-        url: /blog
-        style: link
-        icon_position: right
-        has_icon: true
-        icon: arrow-right
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: none
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_size: cover
-    background_image_position: right bottom
-    background_image_opacity: 5
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
