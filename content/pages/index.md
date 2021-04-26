@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'Matières premières agricoles, ingrédients alimentaires,'
+    subtitle: >-
+      Matières premières agricoles, ingrédients alimentaires et bien plus dans
+      un seul endroit.
     content: >
       ***
 
