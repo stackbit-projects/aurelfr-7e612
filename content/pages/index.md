@@ -465,7 +465,7 @@ sections:
     align: center
     background_color: tertiary
     has_border: false
-    padding_bottom: none
+    padding_bottom: small
     padding_top: small
     enable_cards: false
     background_image: images/smiling-avocado.svg
