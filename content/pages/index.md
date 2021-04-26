@@ -445,7 +445,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: DECOUVRIR
+          - label: DÉCOUVRIR
             url: '#'
             style: link
             has_icon: true
