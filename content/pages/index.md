@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: La planète n'attends pas. Nous non plus.
+    subtitle: >-
+      Matières premières agricoles durables : Plus q'un défis, une
+      responsabilité éthique
     content: >
       ***
 
