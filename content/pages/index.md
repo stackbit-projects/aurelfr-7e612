@@ -460,6 +460,7 @@ sections:
         image: images/superb-mahogany.svg
         image_position: top
         image_align: center
+        image_width: sixty
     grid_cols: two
     align: center
     background_color: tertiary
