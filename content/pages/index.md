@@ -6,7 +6,9 @@ sections:
     content: >
       ***
 
-      Sélectionnez ce sur quoi vous voulez travailler :
+
+      Sélectionnez les produits dont vous avez besoin pour travailler :
+
 
       ***
 
