@@ -22,16 +22,6 @@
                 "no_follow": false,
                 "type": "action",
                 "label": "Suivez-nous"
-            },
-            {
-                "url": "#",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_secondary_nav": true,
