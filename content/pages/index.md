@@ -159,7 +159,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-    title: ▎Cours des matières premières agricoles & Dernières actualités
+    title: "▎Actualités &\_Cours des matières premières agricoles"
     subtitle: '*Actualisation des données le : 20/04/2021'
   - type: blog_feed_section
     actions:
