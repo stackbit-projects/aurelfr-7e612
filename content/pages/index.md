@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: >-
-      MDécouvrez pourquoi plus de 100 000 équipes ont choisi le Work OS
-      monday.com.
+    subtitle: Découvrez pourquoi plus de 1000 industriels ont choisi le Groupe Aurel
     content: >
       ***
 
