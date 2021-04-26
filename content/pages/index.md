@@ -455,6 +455,9 @@ sections:
     type: hero_section
     background_image: images/glass-cognac-chocolate-bars.jpg
     image: images/Pixel500.png
+    content: >
+      ## 1. Parce que vous pouvais vous atteindre à une qualité irréprochable de
+      nos produits en tous temps et lieu.
   - type: grid_section
     actions: []
     grid_items:
