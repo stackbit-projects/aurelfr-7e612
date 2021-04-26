@@ -47,8 +47,8 @@ sections:
     padding_bottom: none
     background_color: none
     title: >-
-      Fournisseur international de matières premières agricoles durables, et
-      bien plus.
+      Votre partenaire international pour la fourniture de matières premieres
+      agricoles
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
