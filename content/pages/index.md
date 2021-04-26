@@ -86,7 +86,7 @@ sections:
 
           > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
           ipsum dolor sit amet, consectetur adipiscing elit.
-        image: images/majestic-goat.svg
+        image: images/brandon-guidelines.png
         image_alt: Miles Tone
         image_position: left
         image_width: thirty-three
