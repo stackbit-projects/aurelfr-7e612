@@ -455,7 +455,6 @@ sections:
         type: grid_item
         content: |
           ### ▎Nos certifications 
-          vertical-align : middle ;
       - title_align: center
         image: images/panoramic-pine.svg
         image_position: top
