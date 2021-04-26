@@ -48,11 +48,6 @@
                 "label": "NOS SERVICES"
             },
             {
-                "style": "link",
-                "url": "/style-guide",
-                "label": "SERVICES"
-            },
-            {
                 "url": "/general-enquiries",
                 "style": "secondary",
                 "has_icon": false,
