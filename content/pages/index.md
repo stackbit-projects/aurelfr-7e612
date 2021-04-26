@@ -46,7 +46,9 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Votre partenaire international de matières premieres agricoles durables
+    title: >-
+      Votre partenaire international pour la fourniture de matières premieres et
+      ingredients durables
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
