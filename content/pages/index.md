@@ -89,7 +89,7 @@ sections:
         image: images/eleanor-carr.png
         image_alt: Miles Tone
         image_position: left
-        image_width: thirty-three
+        image_width: twenty-five
         image_align: center
         image_has_padding: true
         actions: []
