@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: >-
-      Matières premières agricoles durables : Plus q'un défis, une
-      responsabilité éthique. 
+    subtitle: 'Matières premières agricoles, ingrédients alimentaires,'
     content: >
       ***
 
