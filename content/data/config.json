@@ -441,7 +441,7 @@
                 "type": "action"
             },
             {
-                "label": "Dénonciation de pratiques non-étiques",
+                "label": "Button",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
