@@ -21,7 +21,7 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action",
-                "label": "Espace C"
+                "label": "Espace Client"
             }
         ],
         "has_secondary_nav": true,
