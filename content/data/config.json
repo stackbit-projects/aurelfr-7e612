@@ -80,7 +80,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "[English](http://example.com)   |   [简体中文](http://example.com)   |   [Русский](http://example.com)   |   [عربى](http://example.com)   |   [**Français**](http://example.com)   |   [Español](http://example.com)   |   [Português](http://example.com)   |   [Italiano](http://example.com)   |   [ไทย](http://example.com)   |   [हिन्दी](http://example.com)\n",
+        "anncmnt_content": "[English](http://example.com)   |   [简体中文](http://example.com)   |   [Русский](http://example.com)   |   [عربى](http://example.com)   |   [**Français**](http://example.com)   |   [Español](http://example.com)   |   🇧🇷 [Português](http://example.com)   |   [Italiano](http://example.com)   |   [ไทย](http://example.com)   |   [हिन्दी](http://example.com)\n",
         "anncmnt_align": "right",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
