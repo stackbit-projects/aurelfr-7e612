@@ -444,16 +444,7 @@ sections:
     grid_items:
       - title_align: left
         content_align: left
-        actions:
-          - label: DÉCOUVRIR
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
