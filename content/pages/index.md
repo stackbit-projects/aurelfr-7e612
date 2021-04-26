@@ -8,7 +8,6 @@ sections:
 
       Sélectionnez ce sur quoi vous voulez travailler :
 
-
       ***
 
 
