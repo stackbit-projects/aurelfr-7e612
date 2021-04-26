@@ -48,7 +48,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: "Aurel Group :\_un partenaire unique pour gérer tout vos besoins en approvisionnement"
+    title: Travaillez de la manière qui vous convient
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
