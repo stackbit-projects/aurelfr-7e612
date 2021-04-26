@@ -457,6 +457,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/glass-cognac-chocolate-bars.jpg
+    image: images/Pixel500.png
   - type: grid_section
     actions: []
     grid_items:
