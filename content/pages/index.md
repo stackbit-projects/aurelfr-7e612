@@ -117,7 +117,7 @@ sections:
         actions: []
         actions_align: right
         actions_width: auto
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
     align: center
