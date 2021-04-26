@@ -46,7 +46,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: "Votre partenaire international pour la fourniture de\_Matières premières agricoles durables\_et d'ingredients industriels"
+    title: "Votre partenaire international pour la fourniture de matières premières agricoles durables\_et d'ingredients industriels"
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
