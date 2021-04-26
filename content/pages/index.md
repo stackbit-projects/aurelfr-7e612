@@ -457,7 +457,7 @@ sections:
           ### ▎Nous faisons notre maximum, et nous continuerons à faire
           davantage afin de maintenir une conduite exemplaire.
       - title_align: center
-        image: images/clever-artichoke.svg
+        image: images/majestic-planet.svg
         image_position: top
         image_align: center
     grid_cols: two
