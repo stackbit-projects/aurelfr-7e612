@@ -61,7 +61,7 @@ sections:
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
   - content: |
-      #### ▎Nos certifications
+      #### ▎Découvrez les témoignages de nos clients
     actions: []
     image_alt: lorem-ipsum
     media_position: right
