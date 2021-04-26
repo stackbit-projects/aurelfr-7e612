@@ -89,7 +89,7 @@ sections:
         image: images/majestic-goat.svg
         image_alt: Miles Tone
         image_position: left
-        image_width: fifty
+        image_width: fourty
         image_align: center
         image_has_padding: true
         actions: []
