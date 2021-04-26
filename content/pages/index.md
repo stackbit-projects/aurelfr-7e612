@@ -454,7 +454,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          ### ▎Nos certifications en cours
+          ### ▎Nos certifications temoingnent de notre engagement constant
       - title_align: center
         image: images/panoramic-pine.svg
         image_position: top
