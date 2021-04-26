@@ -92,7 +92,7 @@ sections:
         image_has_padding: true
         actions: []
       - content: >
-          **Xi Liang,** *CTO, Studio*
+          **Dubai,** *CTO, Studio*
 
 
           > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
