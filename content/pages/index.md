@@ -58,8 +58,9 @@ sections:
       src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
-  - content: |
-      #### ▎Découvrez les témoignages de nos clients
+  - content: >
+      #### ▎Découvrez pourquoi les meilleures équipes achats aiment faire appel
+      à Aurel.
     actions: []
     image_alt: lorem-ipsum
     media_position: right
