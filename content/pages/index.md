@@ -453,17 +453,8 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        content: >
-          ### ▎Nos certifications
-
-
-          ###### Nous portons une attention particulière à travailler avec des
-          partenaires fiables, partageant les mêmes valeurs en terme d’éthique
-          et de qualité. Pour assurer ses valeurs, notre société met une
-          importance clé à la certification de nos processus. Pour répondre à la
-          demande croissante de nos clients et ainsi satisfaire les
-          consommateurs à travers le monde, nous avons récemment acquis les
-          certifications Halal et Casher.
+        content: |
+          ### ▎Nos certifications \*
       - title_align: center
         image: images/panoramic-pine.svg
         image_position: top
