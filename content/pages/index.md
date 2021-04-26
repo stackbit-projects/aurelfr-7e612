@@ -48,7 +48,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Profitez des avantages d’un Groupe qui s’adapte à vos besoins.
+    title: 'Ce dont vous avez besoin, quand vous en avez besoin'
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
