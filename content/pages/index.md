@@ -48,7 +48,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: "Aurel Group :\_un partenaire unique qui gère tout vos besoins"
+    title: "Aurel Group :\_un partenaire unique pour tout vos besoins industriels"
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
