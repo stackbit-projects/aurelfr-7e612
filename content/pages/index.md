@@ -81,7 +81,6 @@ sections:
   - type: grid_section
     grid_items:
       - content: |
-          ****
         image: images/unilever.png
         image_alt: Miles Tone
         image_position: top
