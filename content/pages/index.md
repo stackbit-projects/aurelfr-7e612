@@ -11,11 +11,6 @@ sections:
       *   des actions bénéfiques et concrets
       *   Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
       fines
-
-
-      <!---->
-
-
       *   Au Bresil Aurel lutte contre la déforestation
 
 
