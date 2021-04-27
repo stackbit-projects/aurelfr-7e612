@@ -54,8 +54,8 @@ sections:
     padding_bottom: none
     background_color: none
     title: >-
-      Aurel Group : votre partenaire international pour la fourniture de
-      matières premières et ingredients industriels
+      Aurel Group : un partenaire unique pour gérer tout vos approvisionnements
+      en matières premières
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
