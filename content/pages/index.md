@@ -113,7 +113,7 @@ sections:
     grid_gap_vert: small
     align: center
     background_color: quaternary
-    enable_cards: true
+    enable_cards: false
     actions: []
     background_image_position: right bottom
     background_image_size: cover
