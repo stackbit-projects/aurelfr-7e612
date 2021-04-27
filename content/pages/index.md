@@ -4,31 +4,50 @@ sections:
   - type: hero_section
     subtitle: 'L’engagement se traduit en principes d’action :'
     content: >
-      ***
+      *   des produits sains
 
 
-      1.  ###### des produits sains
+      <!---->
 
-      2.  ###### des chaînes d’approvisionnement 
 
-      3.  ###### une diminution de l’impact carbone 
+      *   des chaînes d’approvisionnement
 
-      4.  ###### une relation commerciale transparente 
 
-      5.  ###### des actions bénéfiques et concrets 
+      <!---->
 
-      6.  ###### Les noix moldaves peuvent desormais rejoindre les rayons des
-      epiceries fines
 
-      7.  ###### Au Bresil Aurel lutte contre la déforestation
+      *   une diminution de l’impact carbone
 
-      8.  ###### En Guyanne francaise Aurel s'engage
 
-      9.  ###### Les producteur de riz maliens sont aides a faire pousser leur
-      plantes
+      <!---->
 
-      10. ###### En Inde, Aurel disposent des formations contre l'expotation des
-      enfants
+
+      *   une relation commerciale transparente
+
+
+      <!---->
+
+
+      *   des actions bénéfiques et concrets
+
+
+      <!---->
+
+
+      *   Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
+      fines
+
+
+      <!---->
+
+
+      *   Au Bresil Aurel lutte contre la déforestation
+
+
+      <!---->
+
+
+      *   En Guyanne francaise Aurel s'engage
     actions:
       - url: '#'
         style: link
