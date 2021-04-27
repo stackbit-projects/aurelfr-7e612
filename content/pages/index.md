@@ -51,8 +51,8 @@ sections:
     padding_bottom: none
     background_color: none
     title: >-
-      Votre fournisseur de matières premières agricoles et ingrédients
-      alimentaires
+      Nous avons la responsabilité éthique de commercialiser des matières
+      premières agricoles durables
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
