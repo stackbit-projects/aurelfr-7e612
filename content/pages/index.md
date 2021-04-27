@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Et parce que nous priligions
+    subtitle: 'L’engagement se traduit en principes d’action :'
     content: |
       *   des produits sains
       *   des chaînes d’approvisionnement
