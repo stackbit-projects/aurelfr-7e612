@@ -50,7 +50,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Votre fournisseur de matières premières issues de l'agriculture biologique
+    title: "Votre fournisseur de matières premières \_biologiques"
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
