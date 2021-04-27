@@ -5,9 +5,6 @@ sections:
     subtitle: 'L’engagement se traduit en principes d’action :'
     content: >
       *   des produits sains
-
-
-
       *   des chaînes d’approvisionnement
 
 
