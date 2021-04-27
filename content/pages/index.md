@@ -7,8 +7,6 @@ sections:
       *   des produits sains
 
 
-      <!---->
-
 
       *   des chaînes d’approvisionnement
 
