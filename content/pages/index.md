@@ -50,7 +50,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Négoce de produits agricoles bruts.
+    title: Négoce responsable de produits agricoles bruts.
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
