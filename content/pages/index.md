@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      Découvrez notre vision stratégique en 10 points visant à assumer une bonne
-      foi pour toute la responsabilité éthique des produits agricoles durables :
+      Notre vision stratégique en 10 points visant à assumer une bonne foi pour
+      toute la responsabilité éthique des produits agricoles durables :
     content: >
       ***
 
