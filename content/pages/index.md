@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Découvrez pourquoi plus de 200 industriels
+    subtitle: 'Découvrez notre vision stratégique en 10 points :'
     content: >
       ***
 
