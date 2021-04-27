@@ -50,7 +50,9 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: 'Aurel Group : un fournisseur unique pour tout vos approvisionnements'
+    title: >-
+      Fournisseur engagé de matières premières agricoles et ingredients
+      alimentaires
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
