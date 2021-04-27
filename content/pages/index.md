@@ -96,7 +96,6 @@ sections:
         image_align: center
         image_has_padding: true
       - content: |
-          ****
         image: images/sanofi.png
         image_alt: Gordon Norman
         image_position: left
