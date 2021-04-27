@@ -9,11 +9,6 @@ sections:
       *   une diminution de l’impact carbone
       *   une relation commerciale transparente
       *   des actions bénéfiques et concrets
-
-
-      <!---->
-
-
       *   Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
       fines
 
