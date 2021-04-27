@@ -50,7 +50,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: 'Prix, Qualité, Service'
+    title: 3 000 000 000
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
