@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'L’engagement se traduit en principes d’action :'
+    subtitle: 'Et son engagement se traduit en principes d’action :'
     content: |
       *   des produits sains
       *   des chaînes d’approvisionnement
