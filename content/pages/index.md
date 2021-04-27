@@ -81,7 +81,7 @@ sections:
   - type: grid_section
     grid_items:
       - content: ''
-        image: images/carrefour.png
+        image: images/Biocoop.jpg
         image_alt: Eleanor Carr
         image_position: top
         image_width: twenty-five
