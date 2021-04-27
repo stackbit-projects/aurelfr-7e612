@@ -119,7 +119,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/accor.png
-        - content: ''
+      - content: ''
         image: images/carrefour.png
         image_alt: Eleanor Carr
         image_position: top
