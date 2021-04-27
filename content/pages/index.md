@@ -46,7 +46,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Pour résoudre un gros problème nous devons tous nous impliquer.
+    title: Pour résoudre un gros problème chacun doit agir à son niveau.
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
