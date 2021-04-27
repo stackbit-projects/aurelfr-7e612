@@ -149,7 +149,7 @@ sections:
         image_has_padding: true
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: small
+    grid_gap_vert: large
     align: center
     background_color: quaternary
     enable_cards: false
