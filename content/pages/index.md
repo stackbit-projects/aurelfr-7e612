@@ -119,6 +119,34 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/accor.png
+        - content: ''
+        image: images/carrefour.png
+        image_alt: Eleanor Carr
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        - content: ''
+        image: images/carrefour.png
+        image_alt: Eleanor Carr
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        - content: ''
+        image: images/carrefour.png
+        image_alt: Eleanor Carr
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        - content: ''
+        image: images/carrefour.png
+        image_alt: Eleanor Carr
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
