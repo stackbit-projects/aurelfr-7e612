@@ -10,9 +10,6 @@ sections:
       Sélectionnez les produits dont vous avez besoin pour travailler :
 
 
-      ***
-
-
       1.  ###### [Aurel aide les agriculteurs algériens à valoriser leur
       production ](http://example.com)
 
