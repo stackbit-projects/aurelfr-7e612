@@ -107,8 +107,7 @@ sections:
         actions: []
         actions_align: right
         actions_width: auto
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
