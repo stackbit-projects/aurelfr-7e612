@@ -83,12 +83,8 @@ sections:
     background_image: images/smiling-avocado.svg
   - type: grid_section
     grid_items:
-      - content: >
-          **Geneve,** *CEO, Studio*
-
-
-          > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit.
+      - content: |
+          ****
         image: images/unilever.png
         image_alt: Miles Tone
         image_position: top
