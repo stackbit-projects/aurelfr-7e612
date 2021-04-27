@@ -9,8 +9,8 @@ sections:
       ***
 
 
-      1.  ###### Aurel aide les agriculteurs algériens à valoriser leur
-      production
+      1.  ###### Orienter 100% des investissements vers l'acquisition
+      d'exploitations agricoles biologiques  
 
       2.  ###### Les producteur de ble ukrainiens s'appuyassent sur Aurel
 
