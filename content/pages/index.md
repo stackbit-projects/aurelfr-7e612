@@ -48,7 +48,9 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Pour résoudre un gros problème chacun doit agir dans le bon sens.
+    title: >-
+      Ce que nous voulons, c'est que tout le monde puissent manger des produits
+      de qualité.
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
