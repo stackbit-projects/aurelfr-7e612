@@ -102,7 +102,7 @@ sections:
 
           > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
           ipsum dolor sit amet, consectetur adipiscing elit.
-        image: images/eleanor-carr.png
+        image: images/carrefour.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
