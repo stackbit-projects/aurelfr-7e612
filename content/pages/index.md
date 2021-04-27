@@ -96,7 +96,8 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: true
-      - content: "**Hong Kong,**\_*CEO, Studio*\n\n> ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n"
+      - content: |
+          ****
         image: images/sanofi.png
         image_alt: Gordon Norman
         image_position: left
