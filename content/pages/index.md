@@ -89,7 +89,6 @@ sections:
         image_has_padding: true
         actions: []
       - content: |
-          ######
         image: images/carrefour.png
         image_alt: Eleanor Carr
         image_position: left
