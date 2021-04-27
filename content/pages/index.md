@@ -91,7 +91,7 @@ sections:
           ipsum dolor sit amet, consectetur adipiscing elit.
         image: images/unilever.png
         image_alt: Miles Tone
-        image_position: left
+        image_position: top
         image_width: twenty-five
         image_align: center
         image_has_padding: true
