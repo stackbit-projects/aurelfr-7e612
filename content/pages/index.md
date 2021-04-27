@@ -121,7 +121,7 @@ sections:
         image: images/accor.png
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: small
+    grid_gap_vert: medium
     align: center
     background_color: quaternary
     enable_cards: false
