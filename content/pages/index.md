@@ -6,11 +6,11 @@ sections:
     content: >
       ***
 
-      1.  ###### Aurel aide les agriculteurs algériens à valoriser leur
-      production 
 
-      2.  ###### Les producteur de ble ukrainiens s'appuyassent sur
-      Aurel
+      1.  ###### Aurel aide les agriculteurs algériens à valoriser leur
+      production
+
+      2.  ###### Les producteur de ble ukrainiens s'appuyassent sur Aurel
 
       3.  ###### Aurel s'implique au prés des producteurs de cacao en Argentine
 
