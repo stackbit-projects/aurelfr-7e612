@@ -50,9 +50,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: >-
-      Matières premières agricoles durables : Plus q'un défis, une
-      responsabilité éthique
+    title: L'héritage d'un commerce de qualité
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
