@@ -6,23 +6,8 @@ sections:
     content: >
       *   des produits sains
       *   des chaînes d’approvisionnement
-
-
-      <!---->
-
-
       *   une diminution de l’impact carbone
-
-
-      <!---->
-
-
       *   une relation commerciale transparente
-
-
-      <!---->
-
-
       *   des actions bénéfiques et concrets
 
 
