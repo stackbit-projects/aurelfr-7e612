@@ -50,7 +50,9 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Votre fournisseur de matières premières biologiques
+    title: >-
+      Nous pouvons pas tout résoudre, mais nous pouvons vous fournir en matières
+      premieres durables
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
