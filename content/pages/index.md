@@ -9,9 +9,9 @@ sections:
       *   une diminution de l’impact carbone
       *   une relation commerciale transparente
       *   des actions bénéfiques et concrets
-      *   Les noix moldaves peuvent 
-      *   Au Bresil Aurel lutte contre la déforestation
-      *   En Guyanne francaise Aurel s'engage
+      *   noix moldaves peuvent
+      *   lutte contre la déforestation
+      *   française Aurel s'engage
     actions:
       - url: '#'
         style: link
