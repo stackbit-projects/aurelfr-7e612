@@ -53,9 +53,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: >-
-      Aurel Group : un partenaire unique pour gérer tout vos approvisionnements
-      en matières premières
+    title: 'Aurel Group : un partenaire unique pour gérer tout vos approvisionnements'
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
