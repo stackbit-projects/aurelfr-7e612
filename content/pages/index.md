@@ -53,7 +53,9 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Travaillez de la manière qui vous convient
+    title: >-
+      Aurel Group : votre partenaire international pour la fourniture de
+      matières premières et ingredients industriels
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
