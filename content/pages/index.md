@@ -88,17 +88,17 @@ sections:
         image_align: center
         image_has_padding: true
         actions: []
-      - content: |
+      - content: ''
         image: images/carrefour.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
         image_align: center
         image_has_padding: true
-      - content: |
+      - content: ''
         image: images/sanofi.png
         image_alt: Gordon Norman
-        image_position: left
+        image_position: top
         image_width: twenty-five
         image_align: center
         title_align: left
