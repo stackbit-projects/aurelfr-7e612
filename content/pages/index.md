@@ -7,17 +7,15 @@ sections:
       ***
 
 
-      1.  ###### Orienter 100% des investissements vers l'acquisition
-      d'exploitations agricoles biologiques  
+      1.  ###### des produits sains
 
-      2.  ###### Les producteur de ble ukrainiens s'appuyassent sur Aurel
+      2.  ###### des chaînes d’approvisionnement 
 
-      3.  ###### Aurel s'implique au prés des producteurs de cacao en Argentine
+      3.  ###### une diminution de l’impact carbone 
 
-      4.  ###### Les viticulteurs français bénéficient d'un soutien a l'export
+      4.  ###### une relation commerciale transparente 
 
-      5.  ###### En Chine, le group aurel inagure les premiers parteneriats
-      durables
+      5.  ###### des actions bénéfiques et concrets 
 
       6.  ###### Les noix moldaves peuvent desormais rejoindre les rayons des
       epiceries fines
