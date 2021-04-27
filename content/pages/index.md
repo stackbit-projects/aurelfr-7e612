@@ -50,7 +50,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: Bien manger c'est le debut du bonheur.
+    title: 'Notre mission : nourrir un monde en changement'
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
