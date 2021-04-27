@@ -50,7 +50,9 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: 'Matières premières durables : Plus q''un défi, une responsabilité éthique'
+    title: >-
+      Matières premières agricoles durables : Plus q'un défi, une responsabilité
+      éthique
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
