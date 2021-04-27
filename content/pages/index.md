@@ -119,7 +119,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/accor.png
-        
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
