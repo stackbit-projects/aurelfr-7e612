@@ -80,7 +80,7 @@ sections:
     background_image: images/smiling-avocado.svg
   - type: grid_section
     grid_items:
-      - content: |
+      - content: ''
         image: images/unilever.png
         image_alt: Miles Tone
         image_position: top
@@ -88,12 +88,8 @@ sections:
         image_align: center
         image_has_padding: true
         actions: []
-      - content: >
-          **Dubai,** *CTO, Studio*
-
-
-          > ###### Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit.
+      - content: |
+          ######
         image: images/carrefour.png
         image_alt: Eleanor Carr
         image_position: left
