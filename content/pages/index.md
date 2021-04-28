@@ -7,6 +7,7 @@ sections:
       ***
 
       **Pour cela nous aggisons sur 10 domaines prioritaires :**
+      ***
 
       1.  ###### [Action Climatique ❯](http://example.com/)
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
