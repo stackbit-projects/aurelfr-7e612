@@ -71,13 +71,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "url": "/general-enquiries",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center"
-            },
-            {
                 "url": "#",
                 "style": "link",
                 "has_icon": true,
@@ -86,6 +79,13 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "url": "/general-enquiries",
+                "style": "link",
+                "has_icon": true,
+                "icon": "vimeo",
+                "icon_position": "center"
             }
         ],
         "has_anncmnt": true,
