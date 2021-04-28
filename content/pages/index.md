@@ -31,10 +31,10 @@ sections:
       allowfullscreen></iframe>
     title: La planète n'attends pas. Nous non plus.
     subtitle: >-
-      Réinventer l'agriculture et les systèmes alimentaires mondiaux, en
-      fournissant des denrées alimentaires, des aliments pour animaux et des
-      fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
-      monde.
+      Notre mission : Réinventer l'agriculture et les systèmes alimentaires
+      mondiaux, en fournissant des denrées alimentaires, des aliments pour
+      animaux et des fibres qui sont meilleurs pour les agriculteurs, les
+      communautés et notre monde.
     content: >
       ***
 
