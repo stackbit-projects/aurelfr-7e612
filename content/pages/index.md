@@ -45,8 +45,13 @@ sections:
       innovants à base de cacao et d'épices aux États-Unis, nous aidons nos
       clients à répondre aux demandes croissantes des consommateurs en matière
       d'approvisionnement durable et d'aliments sains.
-  - content: |
+  - content: >
       #### ▎Notre empreinte mondiale
+
+
+      Sur 6 continents, nos fermes, nos équipes d'achat et nos installations de
+      transformation sont basées dans des régions clés en croissance pour un
+      approvisionnement et un accès plus sûrs aux marchés.
     actions: []
     image_alt: lorem-ipsum
     media_position: right
