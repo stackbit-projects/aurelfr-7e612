@@ -29,7 +29,7 @@ sections:
       src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
-    title: Nous sommes une entreprise à mission
+    title: Nous avons une mission
     subtitle: >-
       Nous cherchons à réinventer l'agriculture et les systèmes alimentaires
       mondiaux, en fournissant des denrées alimentaires, des aliments pour
