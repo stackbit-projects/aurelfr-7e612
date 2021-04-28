@@ -8,34 +8,33 @@ sections:
       animaux et des fibres qui sont meilleurs pour les agriculteurs, les
       communautés et notre monde.
     content: >
-
-
-      +   ###### [Les producteur de ble ukrainiens s'appuyassent sur
+      1.  [Les producteur de ble ukrainiens s'appuyassent sur
       Aurel](http://example.com/)
-      
-      +   ###### Aurel s'implique au prés des producteurs de cacao en Argentine
-      
-      +   ###### Les viticulteurs français bénéficient d'un soutien a l'export
-
-      +   ###### En Chine, le group aurel inagure les premiers parteneriats
-      durables
 
 
-      +   ###### Les noix moldaves peuvent desormais rejoindre les rayons des
-      epiceries fines
+      2.  Aurel s'implique au prés des producteurs de cacao en Argentine
 
 
-      +   ###### Au Bresil Aurel lutte contre la déforestation
+      3.  Les viticulteurs français bénéficient d'un soutien a l'export
 
 
-      +   ###### En Guyanne francaise Aurel s'engage
+      4.  En Chine, le group aurel inagure les premiers parteneriats durables
 
 
-      +   ###### Les producteur de riz maliens sont aides a faire pousser leur
-      plantes
+      5.  Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
+      fines
 
 
-      +   ###### En Inde, Aurel disposent des formations contre l'expotation des
+      6.  Au Bresil Aurel lutte contre la déforestation
+
+
+      7.  En Guyanne francaise Aurel s'engage
+
+
+      8.  Les producteur de riz maliens sont aides a faire pousser leur plantes
+
+
+      9.  En Inde, Aurel disposent des formations contre l'expotation des
       enfants
     actions:
       - url: '#'
