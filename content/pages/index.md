@@ -48,7 +48,8 @@ sections:
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
   - content: >
-      #### ▎Fournir de la nourriture, des aliments pour animaux et des fibres
+      #### ▎Fournir denrées alimentaires, des aliments pour animaux et des
+      fibres
 
 
       Qu'il s'agisse de travailler avec des producteurs de café en Afrique, de
