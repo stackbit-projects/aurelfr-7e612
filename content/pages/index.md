@@ -2,27 +2,17 @@
 title: Home
 sections:
   - type: hero_section
-    content: >
+    content: |
       ***
-
       1.  ###### [Action Climatique ❯](http://example.com/)
-
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
-
       3.  ###### [Opportunité Économique ❯](http://example.com/)
-
       4.  ###### [Éducation & Compétences ❯](http://example.com/)
-
       5.  ###### [Écosystèmes sains ❯](http://example.com/)
-
       6.  ###### [Sols sains ❯](http://example.com/)
-
       7.  ###### [Nutrition & Santé ❯](http://example.com/)
-
       8.  ###### [Réduction des déchets ❯](http://example.com/)
-
       9.  ###### [Travail sûr & Décent ❯](http://example.com/)
-
       10. ###### [L'eau ❯](http://example.com/)
     actions:
       - label: Explorez notre gamme de produits
@@ -53,10 +43,12 @@ sections:
       allowfullscreen></iframe>
     title: 'Fournir de la nourriture, des aliments pour animaux et des fibres'
     subtitle: >-
-      Réinventer l'agriculture et les systèmes alimentaires mondiaux, en
-      fournissant des denrées alimentaires, des aliments pour animaux et des
-      fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
-      monde.
+      Qu'il s'agisse de travailler avec des producteurs de café en Afrique,
+      de       cultiver nos amandes en Australie ou de développer des
+      ingrédients       innovants à base de cacao et d'épices aux États-Unis,
+      nous aidons nos       clients à répondre aux demandes croissantes des
+      consommateurs en matière       d'approvisionnement durable et d'aliments
+      sains.
   - content: |
       #### ▎Les équipes les plus efficaces travaillent avec Aurel.
     actions: []
