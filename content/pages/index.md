@@ -4,8 +4,11 @@ sections:
   - type: hero_section
     content: |
       ***
+
       ***
-      **Pour cela nous aggisons sur 10 domaines prioritaires :**
+
+      **Domaines d'intervention prioritaires :**
+
       1.  ###### [Action Climatique ❯](http://example.com/)
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
       3.  ###### [Opportunité Économique ❯](http://example.com/)
@@ -16,7 +19,9 @@ sections:
       8.  ###### [Réduction des déchets ❯](http://example.com/)
       9.  ###### [Travail sûr & Décent ❯](http://example.com/)
       10. ###### [L'eau ❯](http://example.com/)
+
       ***
+
       ***
     actions: []
     image: images/classic/hero.png
