@@ -36,6 +36,8 @@ sections:
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
     content: >
+      ***
+      
       Qu'il s'agisse de travailler avec des producteurs de café en Afrique, de
       cultiver nos amandes en Australie ou de développer des ingrédients
       innovants à base de cacao et d'épices aux États-Unis, nous aidons nos
