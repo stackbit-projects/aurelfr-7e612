@@ -5,7 +5,6 @@ sections:
     content: |
       ***
       ***
-
       **Pour cela nous aggisons sur 10 domaines prioritaires :**
       ***
 
