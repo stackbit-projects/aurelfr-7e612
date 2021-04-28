@@ -3,8 +3,10 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      We seek to re-imagine global agriculture and food systems, providing food,
-      feed and fiber that is better for farmers, communities and our world.
+      Nous cherchons à réinventer l'agriculture et les systèmes alimentaires
+      mondiaux, en fournissant des denrées alimentaires, des aliments pour
+      animaux et des fibres qui sont meilleurs pour les agriculteurs, les
+      communautés et notre monde.
     content: >
 
 
