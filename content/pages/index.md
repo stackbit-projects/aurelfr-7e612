@@ -70,15 +70,6 @@ sections:
     image: images/Pixel.png
   - type: grid_section
     grid_items:
-      - image_alt: Eleanor Carr
-        image_position: top
-        image_width: twenty-five
-        image_align: center
-        image_has_padding: true
-        content: >
-          Sur 6 continents, nos fermes, nos équipes d'achat et nos installations
-          de transformation sont basées dans des régions clés en croissance pour
-          un approvisionnement et un accès plus sûrs aux marchés.
       - content: ''
         image: images/carrefour.png
         image_alt: Eleanor Carr
