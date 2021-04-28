@@ -36,6 +36,8 @@ sections:
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
     content: >
+      ***
+      
       # ![](/images/Artcile.jpg)
 
       Qu'il s'agisse de travailler avec des producteurs de café en Afrique, de
