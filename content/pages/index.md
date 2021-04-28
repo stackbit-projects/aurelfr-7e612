@@ -36,7 +36,7 @@ sections:
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
     content: >
-      ***
+      
 
 
       # .......................................
