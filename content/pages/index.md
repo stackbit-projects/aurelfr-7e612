@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      ### Notre mission : Réinventer l'agriculture et les systèmes alimentaires mondiaux.
+      ### Notre mission : Réinventer l'agriculture et les systèmes alimentaires mondiaux,, en fournissant des denrées alimentaires, des aliments pour animaux et des fibres qui sont meilleurs pour les agriculteurs, les communautés et notre monde.
 
       ***
 
