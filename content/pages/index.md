@@ -47,8 +47,15 @@ sections:
       fournissant des denrées alimentaires, des aliments pour animaux et des
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
-  - content: |
+  - content: >
       #### ▎Fournir de la nourriture, des aliments pour animaux et des fibres
+
+
+      Qu'il s'agisse de travailler avec des producteurs de café en Afrique, de
+      cultiver nos amandes en Australie ou de développer des ingrédients
+      innovants à base de cacao et d'épices aux États-Unis, nous aidons nos
+      clients à répondre aux demandes croissantes des consommateurs en matière
+      d'approvisionnement durable et d'aliments sains.
     actions: []
     image_alt: lorem-ipsum
     media_position: right
