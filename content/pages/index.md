@@ -56,13 +56,7 @@ sections:
     image: images/Pixel.png
   - type: grid_section
     grid_items:
-      - content: >
-          Qu'il s'agisse de travailler avec des producteurs de café en Afrique,
-          de cultiver nos amandes en Australie ou de développer des ingrédients
-          innovants à base de cacao et d'épices aux États-Unis, nous aidons nos
-          clients à répondre aux demandes croissantes des consommateurs en
-          matière d'approvisionnement durable et d'aliments sains.
-        image_alt: Eleanor Carr
+      - image_alt: Eleanor Carr
         image_position: top
         image_width: twenty-five
         image_align: center
