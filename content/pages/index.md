@@ -22,7 +22,7 @@ sections:
       5.  ###### [Priorité](http://example.com/)
 
 
-      6.  ###### Au Bresil Aurel lutte contre la déforestation
+      6.  ###### [Priorité](http://example.com/)
 
 
       7.  ###### En Guyanne francaise Aurel s'engage
