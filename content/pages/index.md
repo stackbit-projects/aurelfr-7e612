@@ -16,7 +16,7 @@ sections:
       6.  ###### [Sols sains](http://example.com/)
       7.  ###### [Nutrition & Santé](http://example.com/)
       8.  ###### [Réduction des déchets](http://example.com/)
-      9.  ###### [Priorité](http://example.com/)
+      9.  ###### [Travail sûr et décent](http://example.com/)
       10.  ###### [Priorité](http://example.com/)
     actions: []
     image: images/classic/hero.png
