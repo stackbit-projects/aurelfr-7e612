@@ -35,7 +35,18 @@ sections:
       fournissant des denrées alimentaires, des aliments pour animaux et des
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
-    content: "***\n\n# \U0001F965 \U0001F33D\U0001F954 \U0001F33E\U0001F95C\n\nQu'il s'agisse de travailler avec des producteurs de café en Afrique, de cultiver nos amandes en Australie ou de développer des ingrédients innovants à base de cacao et d'épices aux États-Unis, nous aidons nos clients à répondre aux demandes croissantes des consommateurs en matière d'approvisionnement durable et d'aliments sains.\n"
+    content: >
+      ***
+
+
+      # ----------------------
+
+
+      Qu'il s'agisse de travailler avec des producteurs de café en Afrique, de
+      cultiver nos amandes en Australie ou de développer des ingrédients
+      innovants à base de cacao et d'épices aux États-Unis, nous aidons nos
+      clients à répondre aux demandes croissantes des consommateurs en matière
+      d'approvisionnement durable et d'aliments sains.
   - content: |
       #### ▎Notre empreinte mondiale
     actions: []
