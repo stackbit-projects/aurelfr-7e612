@@ -63,6 +63,10 @@ sections:
     type: hero_section
     background_image: images/smiling-avocado.svg
     image: images/Pixel.png
+    subtitle: >-
+      Sur 6 continents, nos fermes, nos équipes d'achat et nos installations de
+      transformation sont basées dans des régions clés en croissance pour un
+      approvisionnement et un accès plus sûrs aux marchés.
   - type: grid_section
     grid_items:
       - image_alt: Eleanor Carr
