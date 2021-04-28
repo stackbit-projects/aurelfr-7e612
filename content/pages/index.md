@@ -10,7 +10,8 @@ sections:
     content: |
       ***
 
-      **Notre engagement se traduit en actions prioritares :**
+      **Notre engagement se traduit en 10 champs d'action prioritares :**
+
       1.  ###### [Action Climatique ❯](http://example.com/)
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
       3.  ###### [Opportunité Économique ❯](http://example.com/)
@@ -20,7 +21,7 @@ sections:
       7.  ###### [Nutrition & Santé ❯](http://example.com/)
       8.  ###### [Réduction des déchets ❯](http://example.com/)
       9.  ###### [Travail sûr & Décent ❯](http://example.com/)
-      10.  ###### [L'eau ❯](http://example.com/)
+      10. ###### [L'eau ❯](http://example.com/)
     actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
