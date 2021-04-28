@@ -10,7 +10,7 @@ sections:
     content: >
       1.  ###### [Priorité](http://example.com/)
 
-      2.  ###### Aurel s'implique au prés des producteurs de cacao en Argentine
+      2.  ###### [Priorité](http://example.com/)
 
 
       3.  ###### Les viticulteurs français bénéficient d'un soutien a l'export
