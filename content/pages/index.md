@@ -19,10 +19,6 @@ sections:
       8.  ###### [Réduction des déchets ❯](http://example.com/)
       9.  ###### [Travail sûr & Décent ❯](http://example.com/)
       10. ###### [L'eau ❯](http://example.com/)
-
-      ***
-
-      ***
     actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
