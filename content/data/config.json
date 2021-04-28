@@ -74,8 +74,7 @@
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-right",
-                "icon_position": "right",
-                "label": "INVESTISSEURS"
+                "icon_position": "right"
             },
             {
                 "url": "#",
