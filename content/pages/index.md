@@ -39,16 +39,7 @@ sections:
   - content: >
       #### ▎Fournir des denrées alimentaires, des aliments pour animaux et des
       fibres
-    actions:
-      - label: Explorez notre gamme de produits
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     image_alt: lorem-ipsum
     media_position: right
     media_width: fourty
