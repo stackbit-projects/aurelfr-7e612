@@ -3,10 +3,9 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      Nous cherchons à réinventer l'agriculture et les systèmes alimentaires
-      mondiaux, en fournissant des denrées alimentaires, des aliments pour
-      animaux et des fibres qui sont meilleurs pour les agriculteurs, les
-      communautés et notre monde.
+      En fournissant des denrées alimentaires, des aliments pour animaux et des
+      fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
+      monde.
     content: |
       ***
 
