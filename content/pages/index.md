@@ -13,7 +13,9 @@ sections:
       +   ###### [Les producteur de ble ukrainiens s'appuyassent sur
       Aurel](http://example.com/)
       +   ###### Aurel s'implique au prés des producteurs de cacao en Argentine
+      
       +   ###### Les viticulteurs français bénéficient d'un soutien a l'export
+
       +   ###### En Chine, le group aurel inagure les premiers parteneriats
       durables
 
