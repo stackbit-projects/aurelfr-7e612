@@ -12,8 +12,6 @@ sections:
 
       +   ###### [Les producteur de ble ukrainiens s'appuyassent sur
       Aurel](http://example.com/)
-
-
       +   ###### Aurel s'implique au prés des producteurs de cacao en Argentine
 
 
