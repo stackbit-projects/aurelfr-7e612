@@ -20,7 +20,7 @@ sections:
     actions:
       - label: Explorez notre gamme de produits
         url: '#'
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
