@@ -68,7 +68,7 @@ sections:
     background_image_opacity: 0
     background_image_size: contain
     background_image_position: right bottom
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     type: hero_section
     image: images/Pixel.png
     background_image: images/smiling-avocado.svg
