@@ -2,22 +2,37 @@
 title: Home
 sections:
   - type: hero_section
-    content: |
-      ### Réinventer l'agriculture et les systèmes alimentaires mondiaux, en fournissant des denrées alimentaires, des aliments pour animaux et des fibres qui sont meilleurs pour les agriculteurs, les communautés et notre monde.
+    content: >
+      ### Réinventer l'agriculture et les systèmes alimentaires mondiaux, en
+      fournissant des denrées alimentaires, des aliments pour animaux et des
+      fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
+      monde.
+
 
       ***
 
+
       **Nos 10 champs d'action prioritares :**
 
+
       1.  ###### [Action Climatique ❯](http://example.com/)
+
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
+
       3.  ###### [Opportunité Économique ❯](http://example.com/)
+
       4.  ###### [Éducation & Compétences ❯](http://example.com/)
+
       5.  ###### [Écosystèmes sains ❯](http://example.com/)
+
       6.  ###### [Sols sains ❯](http://example.com/)
+
       7.  ###### [Nutrition & Santé ❯](http://example.com/)
+
       8.  ###### [Réduction des déchets ❯](http://example.com/)
+
       9.  ###### [Travail sûr & Décent ❯](http://example.com/)
+
       10. ###### [L'eau ❯](http://example.com/)
     actions: []
     image: images/classic/hero.png
@@ -37,6 +52,7 @@ sections:
       src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
+    title: 'Notre mission :'
   - content: |
       #### ▎Les équipes les plus efficaces travaillent avec Aurel.
     actions: []
