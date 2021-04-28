@@ -41,7 +41,7 @@ sections:
       src=https://www.youtube.com/embed/quastuF2_7k rel=0&amp; controls=0&amp;
       showinfo=0&amp; autoplay=1&mute=1; loop=1" frameborder="0"
       allowfullscreen></iframe>
-    title: 'Fournir de la nourriture, des aliments pour animaux et des fibres'
+    title: Nous avons une mission.
     subtitle: >-
       Qu'il s'agisse de travailler avec des producteurs de café en Afrique,
       de       cultiver nos amandes en Australie ou de développer des
