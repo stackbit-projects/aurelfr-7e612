@@ -5,7 +5,7 @@ sections:
     content: |
       ***
 
-      **Pour cela nous aggisons sur 10 champs d'action prioritares :**
+      **Et il ne s'agit pas de mots, mais d'actions concretes :**
 
       1.  ###### [Action Climatique ❯](http://example.com/)
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
