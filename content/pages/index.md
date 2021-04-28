@@ -11,7 +11,6 @@ sections:
       1.  [Les producteur de ble ukrainiens s'appuyassent sur
       Aurel](http://example.com/)
 
-
       2.  Aurel s'implique au prés des producteurs de cacao en Argentine
 
 
