@@ -5,7 +5,7 @@ sections:
     content: |
       ***
 
-      Domaines d'intervention prioritaires :
+      Nos 10 domaines d'intervention prioritaires :
 
       1.  ###### [Action Climatique ❯](http://example.com/)
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
