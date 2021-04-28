@@ -10,7 +10,7 @@ sections:
     content: |
       1.  ###### [Action Climatique](http://example.com/)
       2.  ###### [Diversité & Inclusion](http://example.com/)
-      3.  ###### [Priorité](http://example.com/)
+      3.  ###### [Opportunité économique](http://example.com/)
       4.  ###### [Priorité](http://example.com/)
       5.  ###### [Priorité](http://example.com/)
       6.  ###### [Priorité](http://example.com/)
