@@ -3,22 +3,39 @@ title: Home
 sections:
   - type: hero_section
     subtitle: 'L’engagement se traduit en principes d’action :'
-    content: |
-      1.  des produits sains
+    content: >
 
-      2.  des chaînes d’approvisionnement
 
-      3.  une diminution de l’impact carbone
+      *   ###### [Les producteur de ble ukrainiens s'appuyassent sur
+      Aurel](http://example.com/)
 
-      4.  une relation commerciale transparente
 
-      5.  des actions bénéfiques et concrets
+      *   ###### Aurel s'implique au prés des producteurs de cacao en Argentine
 
-      6.  noix moldaves peuvent
 
-      7.  lutte contre la déforestation
+      *   ###### Les viticulteurs français bénéficient d'un soutien a l'export
 
-      8.  française Aurel s'engage
+
+      *   ###### En Chine, le group aurel inagure les premiers parteneriats
+      durables
+
+
+      *   ###### Les noix moldaves peuvent desormais rejoindre les rayons des
+      epiceries fines
+
+
+      *   ###### Au Bresil Aurel lutte contre la déforestation
+
+
+      *   ###### En Guyanne francaise Aurel s'engage
+
+
+      *   ###### Les producteur de riz maliens sont aides a faire pousser leur
+      plantes
+
+
+      *   ###### En Inde, Aurel disposent des formations contre l'expotation des
+      enfants
     actions:
       - url: '#'
         style: link
