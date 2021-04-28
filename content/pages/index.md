@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     content: |
       ***
+      Notre mission : Réinventer l'agriculture et les systèmes alimentaires mondiaux.
 
       **Nos 10 champs d'action prioritares :**
 
