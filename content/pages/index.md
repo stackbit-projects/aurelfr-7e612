@@ -27,7 +27,6 @@ sections:
       9.  ###### [Priorité](http://example.com/)
       
       10.  ###### [Priorité](http://example.com/)
-
     actions:
       - url: '#'
         style: link
