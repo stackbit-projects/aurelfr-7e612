@@ -5,8 +5,6 @@ sections:
     content: |
       ***
 
-      ***
-
       **Domaines d'intervention prioritaires :**
 
       1.  ###### [Action Climatique ❯](http://example.com/)
