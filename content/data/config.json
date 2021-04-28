@@ -84,8 +84,7 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action",
-                "label": "ACTUALITÉS"
+                "type": "action"
             }
         ],
         "has_anncmnt": true,
