@@ -37,10 +37,10 @@ sections:
       allowfullscreen></iframe>
     title: Nous avons une mission.
     subtitle: >-
-      Réinventer l'agriculture et les systèmes alimentaires mondiaux, en
-      fournissant des denrées alimentaires, des aliments pour animaux et des
-      fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
-      monde.
+      Nous cherchons à réinventer l'agriculture et les systèmes alimentaires
+      mondiaux, en fournissant des denrées alimentaires, des aliments pour
+      animaux et des fibres qui sont meilleurs pour les agriculteurs, les
+      communautés et notre monde.
   - content: |
       #### ▎Les équipes les plus efficaces travaillent avec Aurel.
     actions: []
