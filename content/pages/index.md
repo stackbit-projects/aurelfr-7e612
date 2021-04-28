@@ -39,7 +39,7 @@ sections:
       ***
 
 
-      # .................................................
+      # .......................................
 
 
       Qu'il s'agisse de travailler avec des producteurs de café en Afrique, de
