@@ -24,7 +24,7 @@ sections:
       durables
 
 
-      *   ###### Les noix moldaves peuvent desormais rejoindre les rayons des
+      +   ###### Les noix moldaves peuvent desormais rejoindre les rayons des
       epiceries fines
 
 
