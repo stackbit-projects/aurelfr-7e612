@@ -83,7 +83,6 @@ sections:
           innovants à base de cacao et d'épices aux États-Unis, nous aidons nos
           clients à répondre aux demandes croissantes des consommateurs en
           matière d'approvisionnement durable et d'aliments sains.
-        image: images/carrefour.png
         image_alt: Eleanor Carr
         image_position: top
         image_width: twenty-five
