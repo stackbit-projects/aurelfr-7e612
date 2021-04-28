@@ -10,7 +10,7 @@ sections:
     content: |
       ***
 
-      **Notre engagement se traduit en 10 champs d'action prioritares :**
+      **Nos 10 champs d'action prioritares :**
 
       1.  ###### [Action Climatique ❯](http://example.com/)
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
