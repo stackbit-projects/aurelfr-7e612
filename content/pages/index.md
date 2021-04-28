@@ -25,7 +25,7 @@ sections:
       6.  ###### [Priorité](http://example.com/)
 
 
-      7.  ###### En Guyanne francaise Aurel s'engage
+      7.  ###### [Priorité](http://example.com/)
 
 
       8.  ###### Les producteur de riz maliens sont aides a faire pousser leur plantes
