@@ -18,7 +18,7 @@ sections:
       9.  ###### [Travail sûr & Décent ❯](http://example.com/)
       10. ###### [L'eau ❯](http://example.com/)
     actions:
-      - label: lorem-ipsum
+      - label: Explorez notre gamme de produits
         url: '#'
         style: link
         has_icon: false
