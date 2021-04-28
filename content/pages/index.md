@@ -20,11 +20,11 @@ sections:
       4.  ###### En Chine, le group aurel inagure les premiers parteneriats durables
 
 
-      5.  Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
+      5.  ###### Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
       fines
 
 
-      6.  Au Bresil Aurel lutte contre la déforestation
+      6.  ###### Au Bresil Aurel lutte contre la déforestation
 
 
       7.  En Guyanne francaise Aurel s'engage
