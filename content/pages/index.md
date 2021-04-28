@@ -20,7 +20,7 @@ sections:
       +   ###### Les viticulteurs français bénéficient d'un soutien a l'export
 
 
-      *   ###### En Chine, le group aurel inagure les premiers parteneriats
+      +   ###### En Chine, le group aurel inagure les premiers parteneriats
       durables
 
 
