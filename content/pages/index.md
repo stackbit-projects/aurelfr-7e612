@@ -31,7 +31,7 @@ sections:
       allowfullscreen></iframe>
     title: La planète n'attends pas. Aurel non plus.
     subtitle: >-
-      Notre mission : Réinventer l'agriculture et les systèmes alimentaires
+      Nous cherchons à réinventer l'agriculture et les systèmes alimentaires
       mondiaux, en fournissant des denrées alimentaires, des aliments pour
       animaux et des fibres qui sont meilleurs pour les agriculteurs, les
       communautés et notre monde.
