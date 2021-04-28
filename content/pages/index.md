@@ -30,9 +30,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    title: >-
-      Notre mission : réinventer l'agriculture et les systèmes alimentaires
-      mondiaux
+    title: Réinventer l'agriculture et les systèmes alimentaires mondiaux.
     background_image_position: right center
     background_image_opacity: 50
     background_image_size: contain
