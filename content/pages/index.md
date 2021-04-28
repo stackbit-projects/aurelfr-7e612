@@ -7,33 +7,18 @@ sections:
       mondiaux, en fournissant des denrées alimentaires, des aliments pour
       animaux et des fibres qui sont meilleurs pour les agriculteurs, les
       communautés et notre monde.
-    content: >
+    content: |
       1.  ###### [Priorité](http://example.com/)
-
       2.  ###### [Priorité](http://example.com/)
-
       3.  ###### [Priorité](http://example.com/)
-
       4.  ###### [Priorité](http://example.com/)
-
       5.  ###### [Priorité](http://example.com/)
-
       6.  ###### [Priorité](http://example.com/)
-
       7.  ###### [Priorité](http://example.com/)
-
       8.  ###### [Priorité](http://example.com/)
-
       9.  ###### [Priorité](http://example.com/)
-      
       10.  ###### [Priorité](http://example.com/)
-    actions:
-      - url: '#'
-        style: link
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-        label: Voir les actions
+    actions: []
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: right
