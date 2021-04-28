@@ -39,7 +39,7 @@ sections:
       allowfullscreen></iframe>
     title: >-
       Notre mission : Réinventer l'agriculture et les systèmes alimentaires
-      mondiaux
+      mondiaux.
     subtitle: >-
       En fournissant des denrées alimentaires, des aliments pour animaux et des
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
