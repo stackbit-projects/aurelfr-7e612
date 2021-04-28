@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      
+      ***
       ***
 
       **Pour cela nous aggisons sur 10 domaines prioritaires :**
