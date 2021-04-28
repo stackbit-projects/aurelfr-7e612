@@ -81,6 +81,7 @@ sections:
     background_image_repeat: repeat
     type: hero_section
     background_image: images/smiling-avocado.svg
+    image: images/about-5.jpg
   - type: grid_section
     grid_items:
       - content: ''
