@@ -48,7 +48,7 @@ sections:
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
   - content: >
-      #### ▎Fournir denrées alimentaires, des aliments pour animaux et des
+      #### ▎Fournir des denrées alimentaires, des aliments pour animaux et des
       fibres
 
 
