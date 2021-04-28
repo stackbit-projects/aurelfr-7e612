@@ -14,7 +14,7 @@ sections:
       2.  ###### Aurel s'implique au prés des producteurs de cacao en Argentine
 
 
-      3.  Les viticulteurs français bénéficient d'un soutien a l'export
+      3.  ###### Les viticulteurs français bénéficient d'un soutien a l'export
 
 
       4.  En Chine, le group aurel inagure les premiers parteneriats durables
