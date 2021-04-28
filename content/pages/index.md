@@ -2,7 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: 'L’engagement se traduit en principes d’action :'
+    subtitle: >-
+      We seek to re-imagine global agriculture and food systems. Our mission is
+      to drive transformation in our sector, in an ethical, socially responsible
+      and environmentally sustainable way.
     content: >
 
 
