@@ -10,7 +10,7 @@ sections:
     content: >
 
 
-      *   ###### [Les producteur de ble ukrainiens s'appuyassent sur
+      +   ###### [Les producteur de ble ukrainiens s'appuyassent sur
       Aurel](http://example.com/)
 
 
