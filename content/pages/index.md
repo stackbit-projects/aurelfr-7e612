@@ -28,7 +28,7 @@ sections:
       epiceries fines
 
 
-      *   ###### Au Bresil Aurel lutte contre la déforestation
+      +   ###### Au Bresil Aurel lutte contre la déforestation
 
 
       *   ###### En Guyanne francaise Aurel s'engage
