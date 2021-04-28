@@ -34,7 +34,7 @@ sections:
       +   ###### En Guyanne francaise Aurel s'engage
 
 
-      *   ###### Les producteur de riz maliens sont aides a faire pousser leur
+      +   ###### Les producteur de riz maliens sont aides a faire pousser leur
       plantes
 
 
