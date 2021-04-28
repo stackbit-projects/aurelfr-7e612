@@ -79,7 +79,6 @@ sections:
     background_image_position: right bottom
     background_image_repeat: repeat
     type: hero_section
-    image: images/Pixel.png
     background_image: images/smiling-avocado.svg
   - type: grid_section
     grid_items:
