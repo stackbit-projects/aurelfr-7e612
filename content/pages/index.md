@@ -48,7 +48,7 @@ sections:
       fibres qui sont meilleurs pour les agriculteurs, les communautés et notre
       monde.
   - content: |
-      #### ▎Les équipes les plus efficaces travaillent avec Aurel.
+      #### ▎Fournir de la nourriture, des aliments pour animaux et des fibres
     actions: []
     image_alt: lorem-ipsum
     media_position: right
