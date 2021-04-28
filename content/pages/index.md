@@ -8,8 +8,7 @@ sections:
       animaux et des fibres qui sont meilleurs pour les agriculteurs, les
       communautés et notre monde.
     content: >
-      1.  ###### [Les producteur de ble ukrainiens s'appuyassent sur
-      Aurel](http://example.com/)
+      1.  ###### [Priorité](http://example.com/)
 
       2.  ###### Aurel s'implique au prés des producteurs de cacao en Argentine
 
