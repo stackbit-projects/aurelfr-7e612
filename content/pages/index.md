@@ -12,24 +12,17 @@ sections:
 
       2.  ###### [Priorité](http://example.com/)
 
-
       3.  ###### [Priorité](http://example.com/)
-
 
       4.  ###### [Priorité](http://example.com/)
 
-
       5.  ###### [Priorité](http://example.com/)
-
 
       6.  ###### [Priorité](http://example.com/)
 
-
       7.  ###### [Priorité](http://example.com/)
 
-
       8.  ###### [Priorité](http://example.com/)
-
 
       9.  ###### [Priorité](http://example.com/)
     actions:
