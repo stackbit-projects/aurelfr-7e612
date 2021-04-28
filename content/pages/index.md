@@ -27,10 +27,10 @@ sections:
       6.  ###### Au Bresil Aurel lutte contre la déforestation
 
 
-      7.  En Guyanne francaise Aurel s'engage
+      7.  ###### En Guyanne francaise Aurel s'engage
 
 
-      8.  Les producteur de riz maliens sont aides a faire pousser leur plantes
+      8.  ###### Les producteur de riz maliens sont aides a faire pousser leur plantes
 
 
       9.  En Inde, Aurel disposent des formations contre l'expotation des
