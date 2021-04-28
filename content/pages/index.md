@@ -33,7 +33,7 @@ sections:
       8.  ###### Les producteur de riz maliens sont aides a faire pousser leur plantes
 
 
-      9.  En Inde, Aurel disposent des formations contre l'expotation des
+      9.  ###### En Inde, Aurel disposent des formations contre l'expotation des
       enfants
     actions:
       - url: '#'
