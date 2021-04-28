@@ -19,8 +19,7 @@ sections:
       4.  ###### [Priorité](http://example.com/)
 
 
-      5.  ###### Les noix moldaves peuvent desormais rejoindre les rayons des epiceries
-      fines
+      5.  ###### [Priorité](http://example.com/)
 
 
       6.  ###### Au Bresil Aurel lutte contre la déforestation
