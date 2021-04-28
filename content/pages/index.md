@@ -57,7 +57,7 @@ sections:
       clients à répondre aux demandes croissantes des consommateurs en matière
       d'approvisionnement durable et d'aliments sains.
     actions:
-      - label: lorem-ipsum
+      - label: Explorez notre gamme de produits
         url: '#'
         style: primary
         has_icon: false
