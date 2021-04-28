@@ -8,7 +8,7 @@ sections:
       animaux et des fibres qui sont meilleurs pour les agriculteurs, les
       communautés et notre monde.
     content: |
-      1.  ###### [Priorité](http://example.com/)
+      1.  ###### [Action climatique](http://example.com/)
       2.  ###### [Priorité](http://example.com/)
       3.  ###### [Priorité](http://example.com/)
       4.  ###### [Priorité](http://example.com/)
