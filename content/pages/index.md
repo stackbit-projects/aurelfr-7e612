@@ -38,7 +38,7 @@ sections:
       plantes
 
 
-      *   ###### En Inde, Aurel disposent des formations contre l'expotation des
+      +   ###### En Inde, Aurel disposent des formations contre l'expotation des
       enfants
     actions:
       - url: '#'
