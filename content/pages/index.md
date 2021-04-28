@@ -56,7 +56,16 @@ sections:
       innovants à base de cacao et d'épices aux États-Unis, nous aidons nos
       clients à répondre aux demandes croissantes des consommateurs en matière
       d'approvisionnement durable et d'aliments sains.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image_alt: lorem-ipsum
     media_position: right
     media_width: fourty
