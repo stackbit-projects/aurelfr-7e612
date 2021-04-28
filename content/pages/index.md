@@ -7,7 +7,7 @@ sections:
 
       *Domaines d'intervention prioritaires :*
 
-      1.  ###### [Action Climatique ❯](http://example.com/)
+      *1.  ###### [Action Climatique ❯](http://example.com/)
       2.  ###### [Diversité & Inclusion ❯](http://example.com/)
       3.  ###### [Opportunité Économique ❯](http://example.com/)
       4.  ###### [Éducation & Compétences ❯](http://example.com/)
