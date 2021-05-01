@@ -463,7 +463,6 @@ sections:
     padding_bottom: none
     padding_top: small
     enable_cards: false
-    background_image: images/smiling-avocado.svg
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
