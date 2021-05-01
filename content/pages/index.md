@@ -84,7 +84,7 @@ sections:
     grid_gap_horiz: small
     grid_gap_vert: small
     align: center
-    background_color: quaternary
+    background_color: primary
     enable_cards: false
     actions: []
     background_image_position: right bottom
